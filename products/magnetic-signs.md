@@ -16,6 +16,7 @@ features:
   - No damage to paintwork
   - Professional finish
   - Flash deals available
+  - Price matching available
 gallery:
   - /images/6d7477a7-55f9-4947-8814-4bfcb54656fb.jpeg
 ---
@@ -49,4 +50,7 @@ Transform your vehicle into a mobile advertisement with our double-bubble magnet
 - Delivery vehicles
 - Service vehicles
 
-**Contact us today:** 01454 837337 or email cresultsconnect@outlook.com
+**Contact us today:**
+- Phone: 01454 837337
+- Mobile: 07727349349
+- Email: cresultsconnect@outlook.com

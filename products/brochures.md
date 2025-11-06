@@ -15,6 +15,7 @@ features:
   - Various paper stocks available
   - Delivery included
   - Perfect bound or stapled options
+  - Price matching available
 gallery:
   - /images/503361135_122241592910204683_8484870830678764678_n.jpg
 ---
@@ -42,4 +43,7 @@ Every brochure package includes professional design, high-quality printing on pr
 
 All designs in our portfolio are designed by us and posted by us, ensuring consistent quality and professional results.
 
-**Contact us today:** 01454 837337 or email cresultsconnect@outlook.com
+**Contact us today:**
+- Phone: 01454 837337
+- Mobile: 07727349349
+- Email: cresultsconnect@outlook.com

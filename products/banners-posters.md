@@ -16,6 +16,7 @@ features:
   - Vibrant full-color printing
   - Various mounting options
   - Fast turnaround
+  - Price matching available
 gallery:
   - /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
 ---
@@ -82,3 +83,4 @@ Create visual impact with professional banners and posters. Perfect for events, 
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com
+- **We offer price matching!**

@@ -15,6 +15,7 @@ features:
   - Fast turnaround times
   - Delivery included
   - Nationwide service available
+  - Price matching available
 gallery:
   - /images/487947847_122225280890204683_5583980386332598044_n.jpg
   - /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
@@ -40,4 +41,7 @@ Every flyer package includes professional design work, high-quality printing, an
 - 10,000 flyers for a local roofing company with QR code
 - Scaffolding company promotional materials
 
-**Contact us today:** 01454 837337 or email cresultsconnect@outlook.com
+**Contact us today:**
+- Phone: 01454 837337
+- Mobile: 07727349349
+- Email: cresultsconnect@outlook.com

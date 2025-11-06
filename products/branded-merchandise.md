@@ -16,6 +16,7 @@ features:
   - Various decoration methods
   - No minimum orders on many items
   - Fast turnaround
+  - Price matching available
 gallery:
   - /images/503361135_122241592910204683_8484870830678764678_n.jpg
 ---
@@ -98,3 +99,4 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com
+- **We offer price matching!**
