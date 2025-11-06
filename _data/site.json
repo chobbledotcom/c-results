@@ -1,12 +1,12 @@
 {
-	"name": "",
-	"url": "https://example.chobble.com",
+	"name": "C-Results",
+	"url": "https://www.thornburyconnect.co.uk",
 	"socials": {
-		"Facebook": null,
+		"Facebook": "https://www.facebook.com/profile.php?id=61570734306699",
 		"Instagram": null,
 		"TikTok": null,
 		"Google": null,
-		"WhatsApp": null,
+		"WhatsApp": "https://wa.me/447727349349",
 		"RSS": "/feed.xml"
 	},
 	"sticky_mobile_nav": true,
