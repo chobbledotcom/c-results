@@ -1,6 +1,6 @@
 ---
 title: Business Cards
-header_image: /images/128f3424-f12a-4317-83c4-94bceaec6df3.jpeg
+header_image: /images/business-cards-promo.jpg
 categories:
   - categories/print-services.md
   - categories/business-stationery.md
@@ -18,7 +18,7 @@ features:
   - Cheaper than Vistaprint
   - Price matching available
 gallery:
-  - /images/128f3424-f12a-4317-83c4-94bceaec6df3.jpeg
+  - /images/business-cards-promo.jpg
 ---
 
 ## Professional Business Cards - Make a Lasting Impression

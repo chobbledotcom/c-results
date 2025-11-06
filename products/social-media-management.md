@@ -1,6 +1,6 @@
 ---
 title: Social Media Management
-header_image: /images/503361135_122241592910204683_8484870830678764678_n.jpg
+header_image: /images/services-overview.jpg
 categories:
   - categories/digital-marketing.md
 price: Contact for quote
@@ -16,7 +16,7 @@ features:
   - Strategic planning
   - Proven marketing strategy
 gallery:
-  - /images/503361135_122241592910204683_8484870830678764678_n.jpg
+  - /images/services-overview.jpg
 ---
 
 ## Social Media Management - Grow Your Online Presence

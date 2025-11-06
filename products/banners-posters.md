@@ -1,6 +1,6 @@
 ---
 title: Banners & Posters
-header_image: /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
+header_image: /images/price-list.jpg
 categories:
   - categories/signage-display.md
   - categories/print-services.md
@@ -18,7 +18,7 @@ features:
   - Fast turnaround
   - Price matching available
 gallery:
-  - /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
+  - /images/price-list.jpg
 ---
 
 ## Banners & Posters - Make an Impact

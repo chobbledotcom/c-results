@@ -1,6 +1,6 @@
 ---
 title: Flyers & Leaflets
-header_image: /images/487947847_122225280890204683_5583980386332598044_n.jpg
+header_image: /images/customer-review-flyers.jpg
 categories:
   - categories/print-services.md
 price: From £94 for 2,000
@@ -17,8 +17,8 @@ features:
   - Nationwide service available
   - Price matching available
 gallery:
-  - /images/487947847_122225280890204683_5583980386332598044_n.jpg
-  - /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
+  - /images/customer-review-flyers.jpg
+  - /images/price-list.jpg
 ---
 
 ## A5 Flyers - Design, Print & Delivery Included

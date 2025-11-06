@@ -1,6 +1,6 @@
 ---
 title: Magnetic Signs
-header_image: /images/6d7477a7-55f9-4947-8814-4bfcb54656fb.jpeg
+header_image: /images/magnetic-signs-promo.jpg
 categories:
   - categories/signage-display.md
   - categories/print-services.md
@@ -18,7 +18,7 @@ features:
   - Flash deals available
   - Price matching available
 gallery:
-  - /images/6d7477a7-55f9-4947-8814-4bfcb54656fb.jpeg
+  - /images/magnetic-signs-promo.jpg
 ---
 
 ## A2 Magnetic Signs - Flash Deal!

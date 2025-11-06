@@ -1,6 +1,6 @@
 ---
 title: Booklets
-header_image: /images/503361135_122241592910204683_8484870830678764678_n.jpg
+header_image: /images/services-overview.jpg
 categories:
   - categories/print-services.md
 price: Contact for quote
@@ -17,8 +17,8 @@ features:
   - Delivery included
   - Price matching available
 gallery:
-  - /images/503361135_122241592910204683_8484870830678764678_n.jpg
-  - /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
+  - /images/services-overview.jpg
+  - /images/price-list.jpg
 ---
 
 ## Professional Booklets - Comprehensive Information Delivery

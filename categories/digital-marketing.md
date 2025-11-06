@@ -1,7 +1,7 @@
 ---
 title: Digital Marketing
 featured: true
-header_image: /images/503361135_122241592910204683_8484870830678764678_n.jpg
+header_image: /images/services-overview.jpg
 header_text: Digital Marketing Services
 subtitle: Grow your business with our proven marketing strategy
 meta_title: Digital Marketing | C-Results

@@ -1,5 +1,5 @@
 ---
-header_image: /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
+header_image: /images/price-list.jpg
 header_text: Welcome to C-Results
 subtitle: Where creative ideas evolve into design and meet quality print
 meta_description: C-Results offers professional print services, design, digital marketing, and local advertising in Thornbury. From flyers to websites, we help your business thrive.

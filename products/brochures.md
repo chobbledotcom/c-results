@@ -1,6 +1,6 @@
 ---
 title: Brochures
-header_image: /images/503361135_122241592910204683_8484870830678764678_n.jpg
+header_image: /images/services-overview.jpg
 categories:
   - categories/print-services.md
 price: From £92 for 250 brochures
@@ -17,7 +17,7 @@ features:
   - Perfect bound or stapled options
   - Price matching available
 gallery:
-  - /images/503361135_122241592910204683_8484870830678764678_n.jpg
+  - /images/services-overview.jpg
 ---
 
 ## Professional Brochures - Design, Print & Delivery

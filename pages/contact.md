@@ -1,5 +1,5 @@
 ---
-header_image: /images/503361135_122241592910204683_8484870830678764678_n.jpg
+header_image: /images/services-overview.jpg
 header_text: Contact Us
 subtitle: Let's grow your business together
 meta_description: Contact C-Results for print services, design, and digital marketing. Phone 01454 837337, mobile 07727349349, or email cresultsconnect@outlook.com

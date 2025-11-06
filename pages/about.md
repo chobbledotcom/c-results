@@ -1,5 +1,5 @@
 ---
-header_image: /images/a94d083f-265a-44c6-80bf-c9491343f9a7.jpeg
+header_image: /images/business-building.jpg
 header_text: About C-Results
 subtitle: Your trusted partner for print, design & marketing
 meta_description: Learn about C-Results - professional print services, design, and digital marketing based in Thornbury. We help businesses thrive with quality and competitive pricing.

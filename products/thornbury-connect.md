@@ -1,6 +1,6 @@
 ---
 title: Thornbury Connect Magazine
-header_image: /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
+header_image: /images/price-list.jpg
 categories:
   - categories/distribution-advertising.md
 price: From £99 per issue
@@ -16,8 +16,8 @@ features:
   - One-off payment - no contracts
   - Trusted network of reliable businesses
 gallery:
-  - /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
-  - /images/a94d083f-265a-44c6-80bf-c9491343f9a7.jpeg
+  - /images/price-list.jpg
+  - /images/business-building.jpg
 ---
 
 ## Thornbury Connect - Your Exclusive Advertising Opportunity
