@@ -1,5 +1,5 @@
 ---
-header_image: /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
+header_image: /images/price-list.jpg
 header_text: Our Services
 subtitle: Professional print, design & marketing solutions
 meta_description: C-Results services include flyers, business cards, brochures, design, websites, social media management, and Thornbury Connect magazine advertising.

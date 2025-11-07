@@ -1,6 +1,6 @@
 ---
 title: Website Build, Host & SEO
-header_image: /images/a94d083f-265a-44c6-80bf-c9491343f9a7.jpeg
+header_image: /images/business-building.jpg
 categories:
   - categories/digital-marketing.md
 price: Contact for quote
@@ -16,7 +16,7 @@ features:
   - Online booking integration
   - Content management system
 gallery:
-  - /images/a94d083f-265a-44c6-80bf-c9491343f9a7.jpeg
+  - /images/business-building.jpg
 ---
 
 ## Website Build, Host & SEO - Your Complete Online Solution

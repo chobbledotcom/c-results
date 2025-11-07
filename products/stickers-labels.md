@@ -1,6 +1,6 @@
 ---
 title: Stickers & Labels
-header_image: /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
+header_image: /images/price-list.jpg
 categories:
   - categories/print-services.md
   - categories/business-stationery.md
@@ -18,7 +18,7 @@ features:
   - Short and long runs available
   - Price matching available
 gallery:
-  - /images/bcb07f5d-0c3a-4585-bd43-29cc64e2accb.jpeg
+  - /images/price-list.jpg
 ---
 
 ## Stickers & Labels - Custom Solutions for Every Need

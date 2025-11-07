@@ -1,6 +1,6 @@
 ---
 title: Logo & Brand Design
-header_image: /images/a94d083f-265a-44c6-80bf-c9491343f9a7.jpeg
+header_image: /images/business-building.jpg
 categories:
   - categories/design-services.md
 price: Contact for quote
@@ -16,8 +16,8 @@ features:
   - Print-ready files
   - Multiple format delivery
 gallery:
-  - /images/a94d083f-265a-44c6-80bf-c9491343f9a7.jpeg
-  - /images/503361135_122241592910204683_8484870830678764678_n.jpg
+  - /images/business-building.jpg
+  - /images/services-overview.jpg
 ---
 
 ## Logo & Brand Design - Build Your Business Brand

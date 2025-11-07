@@ -1,7 +1,7 @@
 ---
 title: Signage & Display
 featured: false
-header_image: /images/6d7477a7-55f9-4947-8814-4bfcb54656fb.jpeg
+header_image: /images/magnetic-signs-promo.jpg
 header_text: Signage & Display Solutions
 subtitle: Eye-catching signs and banners for your business
 meta_title: Signage & Display | C-Results

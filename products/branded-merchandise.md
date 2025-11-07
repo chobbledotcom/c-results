@@ -1,6 +1,6 @@
 ---
 title: Branded Merchandise
-header_image: /images/503361135_122241592910204683_8484870830678764678_n.jpg
+header_image: /images/services-overview.jpg
 categories:
   - categories/print-services.md
   - categories/design-services.md
@@ -18,7 +18,7 @@ features:
   - Fast turnaround
   - Price matching available
 gallery:
-  - /images/503361135_122241592910204683_8484870830678764678_n.jpg
+  - /images/services-overview.jpg
 ---
 
 ## Branded Merchandise - Promote Your Business

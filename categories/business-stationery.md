@@ -1,7 +1,7 @@
 ---
 title: Business Stationery
 featured: false
-header_image: /images/128f3424-f12a-4317-83c4-94bceaec6df3.jpeg
+header_image: /images/business-cards-promo.jpg
 header_text: Business Stationery
 subtitle: Professional stationery for your business
 meta_title: Business Stationery | C-Results
