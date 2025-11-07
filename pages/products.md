@@ -8,8 +8,12 @@ layout: categories.html
 permalink: /products/
 eleventyNavigation:
   key: Products
-  order: 4
+  order: 3
 ---
+
+## Your Complete Business Growth Partner
+
+From high-quality printing to comprehensive digital marketing, we provide everything you need to grow your business.
 
 ## Service Categories
 
@@ -25,10 +29,31 @@ Browse our services by category to find exactly what you need for your business.
 
 ---
 
+## Why Choose C-Results?
+
+### Price Matching
+We offer price matching on all services!
+
+### Complete Package
+All designs include professional design and delivery
+
+### Nationwide Service
+Local expertise, nationwide reach
+
+### Fast Turnaround
+Quick delivery without compromising quality
+
+### Professional Results
+Bespoke quality, cheaper than Vistaprint
+
+---
+
 ## All Products & Services
 
 Explore our complete range of products below. From high-quality printing to comprehensive online marketing, we have everything you need to grow your business.
 
-**Contact us today for a quote - we offer price matching on all services!**
+**Contact us today for a quote:**
 
 Phone: 01454 837337 | Mobile: 07727349349 | Email: cresultsconnect@outlook.com
+
+**We offer price matching on all our services!**
