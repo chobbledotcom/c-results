@@ -1,29 +1,27 @@
-// Neon Theme - Dark with neon accents
+// Monochrome Theme - Grayscale minimalist
 :root {
   // Layout
   --width-content: 1100px;
 
-  // Colors - Dark with neon accents
-  --color-bg: #0a0a0a;
-  --color-bg-secondary: #1a0a1a;
-  --color-text: #eeeeee;
-  --color-link: #00ffff;
-  --header-text-color: #ffff00;
+  // Colors
+  --color-bg: #1a1a1a;
+  --color-bg-secondary: #2a2a2a;
+  --color-text: #e0e0e0;
+  --color-link: #ffffff;
+  --header-text-color: #ffffff;
 
-  // Borders - Subtle neon glow
-  --border: 2px solid #ff00ff;
-  --border-radius: 12px;
-  --box-shadow: 0 0 8px rgba(255, 0, 255, 0.5);
-  --form-button-border: 2px solid #00ffff;
-  --form-button-hover-border: 2px solid #ffff00;
+  // Borders
+  --border: 0px solid #808080;
+  --border-radius: 2px;
+  --box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+  --form-button-border: 1px solid #808080;
+  --form-button-hover-border: 1px solid #ffffff;
 
-  // Fonts - Futuristic with Orbitron
-  --font-family-heading:
-    "Orbitron", Bahnschrift, "DIN Alternate", "Franklin Gothic Medium",
-    sans-serif;
-  // --font-family-body: "Orbitron", Avenir, Montserrat, Corbel, sans-serif;
+  // Fonts
+  --font-family-heading: system-ui, sans-serif;
+  --font-family-body: system-ui, sans-serif;
   --line-height: 2;
-  --link-decoration: none;
+  --link-decoration: underline;
   --link-decoration-hover: underline;
-  --link-decoration-style: double;
+  --link-decoration-style: solid;
 }
