@@ -11,6 +11,8 @@ layout: home.html
 permalink: /
 ---
 
+![Build your business with us](/images/business-building.jpg)
+
 ## Your Complete Print & Marketing Solution
 
 Welcome to C-Results! We're your local partner for professional print services, creative design, and digital marketing. Based in Thornbury, we help businesses grow through high-quality printing, stunning design, and effective marketing strategies.
@@ -18,6 +20,7 @@ Welcome to C-Results! We're your local partner for professional print services, 
 ## Our Services
 
 ### Print Services
+
 From business cards to 10,000 flyers, we deliver professional printing with design and delivery included. Bespoke quality, cheaper than Vistaprint!
 
 - **Flyers & Leaflets** - From £94 for 2,000
@@ -28,6 +31,7 @@ From business cards to 10,000 flyers, we deliver professional printing with desi
 - **Stickers & Labels** - Custom printing
 
 ### Design Services
+
 Where creative ideas evolve into design and meet quality print.
 
 - **Logo & Brand Design** - Professional branding
@@ -35,6 +39,7 @@ Where creative ideas evolve into design and meet quality print.
 - **Brand Copywriting** - Compelling messaging
 
 ### Digital Marketing
+
 Boost your business with our proven marketing strategy.
 
 - **Social Media Management** - More growth, more clients, guaranteed
@@ -42,6 +47,7 @@ Boost your business with our proven marketing strategy.
 - **Online Marketing** - Strategic campaigns
 
 ### Thornbury Connect Magazine
+
 Reach 7,500 homes in Thornbury with exclusive local advertising!
 
 - Only 1-2 businesses per industry
@@ -52,18 +58,23 @@ Reach 7,500 homes in Thornbury with exclusive local advertising!
 ## Why Choose C-Results?
 
 ### Bespoke Quality
+
 We deliver professional results that represent your business perfectly.
 
 ### Competitive Pricing
+
 High-quality services at great prices - and we offer **price matching**!
 
 ### Nationwide Service
+
 You don't need to be local to use our services. We work with businesses across the UK.
 
 ### Proven Results
+
 We're dedicated to helping your business thrive with our proven marketing strategy.
 
 ### All-In-One Solution
+
 From design to print to digital marketing - we handle it all.
 
 ## Recent Projects
@@ -79,6 +90,7 @@ From design to print to digital marketing - we handle it all.
 Ready to grow your business? Contact us for a quote or to discuss your project.
 
 **Contact C-Results:**
+
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com
