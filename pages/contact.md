@@ -1,5 +1,5 @@
 ---
-header_image: /images/Untitled (1600 x 1200 px) (9).png
+header_image: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (12).png
 header_text: Contact Us
 meta_description: Contact C-Results for print services, design, and digital
   marketing. Phone 01454 837337, mobile 07727349349, or email
