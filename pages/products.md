@@ -1,16 +1,16 @@
 ---
-header_image: /images/price-list.jpg
+header_image: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (10).png
 header_text: Our Products & Services
-subtitle: Professional print, design & marketing solutions
-meta_description: Browse all C-Results products and services - from flyers and business cards to websites and social media management. Quality printing and marketing solutions.
+meta_description: Browse all C-Results products and services - from flyers and
+  business cards to websites and social media management. Quality printing and
+  marketing solutions.
 meta_title: Products & Services | C-Results
-layout: categories.html
-permalink: /products/
 eleventyNavigation:
   key: Products
   order: 3
+layout: categories.html
+permalink: /products/
 ---
-
 ## Your Complete Business Growth Partner
 
 From high-quality printing to comprehensive digital marketing, we provide everything you need to grow your business.
