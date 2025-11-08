@@ -1,5 +1,4 @@
 ---
-header_image: /images/Untitled (1600 x 1200 px) (10).png
 header_text: About C-Results
 meta_description: Learn about C-Results - professional print services, design,
   and digital marketing based in Thornbury. We help businesses thrive with
