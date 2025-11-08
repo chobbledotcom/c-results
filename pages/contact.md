@@ -1,8 +1,9 @@
 ---
-header_image: /images/services-overview.jpg
+header_image: /images/Untitled (1600 x 1200 px) (9).png
 header_text: Contact Us
-subtitle: Let's grow your business together
-meta_description: Contact C-Results for print services, design, and digital marketing. Phone 01454 837337, mobile 07727349349, or email cresultsconnect@outlook.com
+meta_description: Contact C-Results for print services, design, and digital
+  marketing. Phone 01454 837337, mobile 07727349349, or email
+  cresultsconnect@outlook.com
 meta_title: Contact | C-Results
 eleventyNavigation:
   key: Contact
@@ -10,7 +11,6 @@ eleventyNavigation:
 layout: contact.html
 permalink: /contact/
 ---
-
 ## Get in Touch
 
 We'd love to hear from you! Whether you need printing services, design work, digital marketing, or want to advertise in Thornbury Connect, we're here to help.
