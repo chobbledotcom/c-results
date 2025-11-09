@@ -1,13 +1,9 @@
 ---
 title: Social Media Management
-header_image: /images/services-overview.jpg
+header_image: /images/web-development.png
 categories:
   - categories/digital-marketing.md
 price: Contact for quote
-header_text: Social Media Management
-subtitle: Grow your online presence with expert social media
-meta_title: Social Media Management | C-Results
-meta_description: Professional social media management services. Grow your business with strategic content, engagement, and proven marketing strategies.
 features:
   - Content creation and scheduling
   - Community engagement
@@ -17,8 +13,11 @@ features:
   - Proven marketing strategy
 gallery:
   - /images/services-overview.jpg
+header_text: Social Media Management
+meta_description: Professional social media management services. Grow your
+  business with strategic content, engagement, and proven marketing strategies.
+meta_title: Social Media Management | C-Results
 ---
-
 ## Social Media Management - Grow Your Online Presence
 
 Need a boost? More growth, more clients, guaranteed! We're dedicated to helping your business thrive with our proven marketing strategy.
