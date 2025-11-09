@@ -1,13 +1,9 @@
 ---
 title: Thornbury Connect Magazine
-header_image: /images/price-list.jpg
+header_image: /images/thornbury-connect.png
 categories:
   - categories/distribution-advertising.md
 price: From £99 per issue
-header_text: Thornbury Connect
-subtitle: Reach 7,500 homes in Thornbury
-meta_title: Thornbury Connect Magazine Advertising | C-Results
-meta_description: Advertise to 7,500 Thornbury homes with Thornbury Connect magazine. Limited spots available - only 1-2 businesses per industry. From £99 for half-page adverts.
 features:
   - Reaches 7,500 local homes
   - Limited competition - only 1-2 businesses per industry
@@ -18,8 +14,12 @@ features:
 gallery:
   - /images/price-list.jpg
   - /images/business-building.jpg
+header_text: Thornbury Connect
+meta_description: Advertise to 7,500 Thornbury homes with Thornbury Connect
+  magazine. Limited spots available - only 1-2 businesses per industry. From £99
+  for half-page adverts.
+meta_title: Thornbury Connect Magazine Advertising | C-Results
 ---
-
 ## Thornbury Connect - Your Exclusive Advertising Opportunity
 
 Get your business seen by 7,500 homes in Thornbury! This is your exclusive chance to reach thousands of local customers through our trusted community magazine.
