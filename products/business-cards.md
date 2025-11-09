@@ -1,14 +1,10 @@
 ---
 title: Business Cards
-header_image: /images/business-cards-promo.jpg
+header_image: /images/customer-review-flyers.jpg
 categories:
   - categories/print-services.md
   - categories/business-stationery.md
 price: From £22 for 250 cards
-header_text: Professional Business Cards
-subtitle: Double-sided business cards with design and delivery
-meta_title: Business Cards | C-Results Print Services
-meta_description: Professional business cards from £22 for 250 cards. Double-sided, includes professional design and delivery. Bespoke quality, cheaper than Vistaprint.
 features:
   - Double-sided printing
   - Professional design included
@@ -19,8 +15,12 @@ features:
   - Price matching available
 gallery:
   - /images/business-cards-promo.jpg
+header_text: Professional Business Cards
+meta_description: Professional business cards from £22 for 250 cards.
+  Double-sided, includes professional design and delivery. Bespoke quality,
+  cheaper than Vistaprint.
+meta_title: Business Cards | C-Results Print Services
 ---
-
 ## Professional Business Cards - Make a Lasting Impression
 
 Create a professional first impression with our high-quality business cards. Bespoke quality, cheaper than Vistaprint!
