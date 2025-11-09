@@ -1,13 +1,9 @@
 ---
 title: Logo & Brand Design
-header_image: /images/business-building.jpg
+header_image: /images/graphic-design.png
 categories:
   - categories/design-services.md
 price: Contact for quote
-header_text: Logo & Brand Design
-subtitle: Professional branding that helps you stand out
-meta_title: Logo & Brand Design | C-Results
-meta_description: Professional logo design, graphic design, and brand copywriting services. Build your business brand with creative design solutions.
 features:
   - Custom logo design
   - Brand identity development
@@ -18,8 +14,12 @@ features:
 gallery:
   - /images/business-building.jpg
   - /images/services-overview.jpg
+header_text: Logo & Brand Design
+meta_description: Professional logo design, graphic design, and brand
+  copywriting services. Build your business brand with creative design
+  solutions.
+meta_title: Logo & Brand Design | C-Results
 ---
-
 ## Logo & Brand Design - Build Your Business Brand
 
 We help you stand out with professional logo design and comprehensive brand identity development. Where creative ideas evolve into design and meet quality print.
