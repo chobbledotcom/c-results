@@ -1,14 +1,10 @@
 ---
 title: Branded Merchandise
-header_image: /images/services-overview.jpg
+header_image: /images/clothing-printing.png
 categories:
   - categories/print-services.md
   - categories/design-services.md
 price: Contact for quote
-header_text: Branded Merchandise
-subtitle: Custom merchandise to promote your business
-meta_title: Branded Merchandise | C-Results
-meta_description: Custom branded merchandise including clothing, promotional items, and marketing materials. Boost your brand awareness with quality merchandise.
 features:
   - Wide range of products
   - Custom branding
@@ -19,8 +15,12 @@ features:
   - Price matching available
 gallery:
   - /images/services-overview.jpg
+header_text: Branded Merchandise
+meta_description: Custom branded merchandise including clothing, promotional
+  items, and marketing materials. Boost your brand awareness with quality
+  merchandise.
+meta_title: Branded Merchandise | C-Results
 ---
-
 ## Branded Merchandise - Promote Your Business
 
 Boost your brand awareness with custom merchandise. From clothing to promotional items, we can brand anything you desire!
