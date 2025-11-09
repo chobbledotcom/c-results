@@ -1,14 +1,10 @@
 ---
 title: Banners & Posters
-header_image: /images/price-list.jpg
+header_image: /images/posters.png
 categories:
   - categories/signage-display.md
   - categories/print-services.md
 price: Contact for quote
-header_text: Banners & Posters
-subtitle: Eye-catching displays for events and promotions
-meta_title: Banners & Posters | C-Results
-meta_description: Professional banner and poster printing for events, promotions, and business advertising. All sizes available with fast turnaround.
 features:
   - All sizes available
   - Indoor and outdoor options
@@ -19,8 +15,12 @@ features:
   - Price matching available
 gallery:
   - /images/price-list.jpg
+header_text: Banners & Posters
+meta_description: Professional banner and poster printing for events,
+  promotions, and business advertising. All sizes available with fast
+  turnaround.
+meta_title: Banners & Posters | C-Results
 ---
-
 ## Banners & Posters - Make an Impact
 
 Create visual impact with professional banners and posters. Perfect for events, promotions, exhibitions, and business advertising.
