@@ -1,14 +1,10 @@
 ---
 title: Stickers & Labels
-header_image: /images/price-list.jpg
+header_image: /images/products.png
 categories:
   - categories/print-services.md
   - categories/business-stationery.md
 price: Contact for quote
-header_text: Stickers & Labels
-subtitle: Custom stickers and labels for any purpose
-meta_title: Stickers & Labels | C-Results
-meta_description: Custom sticker and label printing for products, promotions, and branding. All shapes, sizes, and materials available.
 features:
   - Custom shapes and sizes
   - Various materials available
@@ -19,8 +15,11 @@ features:
   - Price matching available
 gallery:
   - /images/price-list.jpg
+header_text: Stickers & Labels
+meta_description: Custom sticker and label printing for products, promotions,
+  and branding. All shapes, sizes, and materials available.
+meta_title: Stickers & Labels | C-Results
 ---
-
 ## Stickers & Labels - Custom Solutions for Every Need
 
 Professional sticker and label printing for products, packaging, promotions, and branding. From simple labels to complex die-cut designs.
