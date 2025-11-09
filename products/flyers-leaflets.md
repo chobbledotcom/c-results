@@ -1,13 +1,9 @@
 ---
 title: Flyers & Leaflets
-header_image: /images/customer-review-flyers.jpg
+header_image: /images/printing-services.png
 categories:
   - categories/print-services.md
 price: From £94 for 2,000
-header_text: Professional Flyers & Leaflets
-subtitle: High-quality flyers with design and delivery included
-meta_title: Flyers & Leaflets | C-Results Print Services
-meta_description: Professional flyer printing from 2,000 to 10,000 copies. Includes professional design, QR codes, and delivery. Trusted by scaffolding, roofing, and local businesses.
 features:
   - Professional design included
   - High-quality printing
@@ -19,8 +15,12 @@ features:
 gallery:
   - /images/customer-review-flyers.jpg
   - /images/price-list.jpg
+header_text: Professional Flyers & Leaflets
+meta_description: Professional flyer printing from 2,000 to 10,000 copies.
+  Includes professional design, QR codes, and delivery. Trusted by scaffolding,
+  roofing, and local businesses.
+meta_title: Flyers & Leaflets | C-Results Print Services
 ---
-
 ## A5 Flyers - Design, Print & Delivery Included
 
 Get your message out there with professional A5 flyers. We've completed projects for scaffolding companies, roofing businesses, bouncy castle companies, and many more. You don't need to be local to use our services!
