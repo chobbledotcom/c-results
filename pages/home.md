@@ -15,7 +15,7 @@ permalink: /
 
 ## Your Complete Print & Marketing Solution
 
-We're C-Results, based in Thornbury, and we handle print, design, and digital marketing for businesses across the UK. Whether you need 250 business cards or 10,000 flyers, we sort the lot—design, printing, and delivery. Our prices beat [Vistaprint](https://www.vistaprint.co.uk) and other online printers, but you get bespoke quality rather than templates.
+We're C-Results, based in Thornbury, and we handle print, design, and digital marketing for businesses across the UK. Whether you need 250 business cards or 10,000 flyers, we sort the lot: design, printing, and delivery. Our prices beat [Vistaprint](https://www.vistaprint.co.uk) and other online printers, but you get bespoke quality rather than templates.
 
 ## Our Services
 
@@ -45,8 +45,8 @@ The main advantage of working with us is that we handle everything in one place.
 
 ## Recent Projects
 
-We've recently printed 10,000 flyers for a family-run scaffolding company, designed and printed materials for a bouncy castle hire business in Cardiff, and done a big flyer run for a local roofing firm (complete with QR codes for tracking). We've also worked with interior painters, fitness instructors, and all sorts of other businesses. Every job's different, which is what keeps it interesting. If you want to see what our customers actually think, have a look at the [reviews page](/reviews/)—we don't cherry-pick the good ones.
+We've recently printed 10,000 flyers for a family-run scaffolding company, designed and printed materials for a bouncy castle hire business in Cardiff, and done a big flyer run for a local roofing firm (complete with QR codes for tracking). We've also worked with interior painters, fitness instructors, and all sorts of other businesses. Every job's different, which is what keeps it interesting. If you want to see what our customers actually think, have a look at the [reviews page](/reviews/): we don't cherry-pick the good ones.
 
 ## Get in Touch
 
-If you want a quote or just need to ask a question, give us a ring on [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349), or email us at [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com). You can also fill in the form on our [contact page](/contact/) if that's easier. We usually get back to people the same day, and we're happy to have a chat about what you need before you commit to anything. Remember, we price match—so if you've seen it cheaper elsewhere, let us know and we'll sort it.
+If you want a quote or just need to ask a question, give us a ring on [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349), or email us at [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com). You can also fill in the form on our [contact page](/contact/) if that's easier. We usually get back to people the same day, and we're happy to have a chat about what you need before you commit to anything. Remember, we price match: so if you've seen it cheaper elsewhere, let us know and we'll sort it.
