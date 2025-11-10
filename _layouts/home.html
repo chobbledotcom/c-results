@@ -2,6 +2,13 @@
 layout: base
 ---
 
+{%- assign categories = collections.categories | getFeaturedCategories -%}
+{%- if homepage.show_products and categories.size > 0 -%}
+  <div id="homepage-products">
+    {%- include "categories-list.html" -%}
+  </div>
+{%- endif -%}
+
 {{ content }}
 
 {%- assign menus = collections.menu | sort: 'data.order' -%}
@@ -36,13 +43,6 @@ layout: base
     {%- comment -%} Use text list when some posts lack images {%- endcomment -%}
     {% include "news-post-list.html", limit: 2 %}
   {%- endif -%}
-{%- endif -%}
-
-{%- assign categories = collections.categories | getFeaturedCategories -%}
-{%- if homepage.show_products and categories.size > 0 -%}
-  <hr>
-  {%- render_snippet "homepage-categories-header", "<h3>Product Categories</h3>" -%}
-  {%- include "categories-list.html" -%}
 {%- endif -%}
 
 {%- comment -%} Check for recurring events {%- endcomment -%}

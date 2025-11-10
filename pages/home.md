@@ -11,29 +11,12 @@ eleventyNavigation:
 layout: home.html
 permalink: /
 ---
-![Build your business with us](/images/business-building.jpg)
 
 ## Your complete print & marketing partner
 
 We're C-Results, based in Thornbury, and we handle print, design, and digital marketing for businesses across the UK. Whether you need 250 business cards or 10,000 flyers, we can help with design, printing, and delivery. Our prices beat Vistaprint and other online printers, but you get bespoke quality rather than templates.
 
-## Our Services
-
-### Print Services
-
-We print everything from business cards to large format banners, brochures, booklets, magnetic signs, posters, stickers, and labels. Design and UK delivery are included in the price - have a look at our [full product range](/products/) to see what's available.
-
-### Design Services
-
-Whether you've need something making from scratch or have an existing logo and full brand guidelines, we can create new professional designs for your physical advertisements or to use on your website.
-
-### Digital Marketing
-
-We run social media accounts, build websites, and handle SEO to get your business found online. It's straightforward stuff - we work out what your customers are looking for and make sure you're visible. We can also set up and manage online advertising campaigns if that's what you need.
-
-### Thornbury Connect Magazine
-
-Our [Thornbury Connect](https://www.thornburyconnect.co.uk) magazine goes out to 7,500 homes in Thornbury every month. We only take one or two businesses per industry, so you're not competing with three other plumbers or electricians on the same page. Half-page adverts start at £99, and everyone who advertises gets a free listing in our online directory.
+![Build your business with us](/images/business-building.jpg)
 
 ## Why Choose C-Results?
 
