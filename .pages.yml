@@ -102,6 +102,7 @@ content:
         type: reference
         options:
           collection: products
+          required: false
           multiple: true
           search: "title"
           value: "{path}"
