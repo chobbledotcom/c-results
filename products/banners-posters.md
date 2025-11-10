@@ -18,7 +18,7 @@ header_text: Banners & Posters
 meta_description: Professional banner and poster printing for events,
   promotions, and business advertising. All sizes available with fast
   turnaround.
-meta_title: Banners & Posters | C-Results
+meta_title: Professional Banners & Large Format Printing | Signage in Thornbury & Nationwide | C-Results
 ---
 
 ## Banners & Posters - Make an Impact

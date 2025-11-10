@@ -4,7 +4,7 @@ featured: true
 header_image: /images/business-building.jpg
 header_text: Creative Design Solutions
 subtitle: Where creative ideas evolve into design and meet quality print
-meta_title: Design Services | C-Results
+meta_title: Professional Graphic & Logo Design | Design Services in Thornbury & Nationwide | C-Results
 meta_description: Professional graphic design, logo design, and brand copywriting services to help your business stand out.
 ---
 

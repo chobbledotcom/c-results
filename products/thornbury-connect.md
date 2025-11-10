@@ -18,7 +18,7 @@ header_text: Thornbury Connect
 meta_description: Advertise to 7,500 Thornbury homes with Thornbury Connect
   magazine. Limited spots available - only 1-2 businesses per industry. From £99
   for half-page adverts.
-meta_title: Thornbury Connect Magazine Advertising | C-Results
+meta_title: Advertise to 7,500 Local Homes from £99 | Local Advertising in Thornbury | C-Results
 ---
 
 ## Thornbury Connect - Your Exclusive Advertising Opportunity

@@ -6,7 +6,7 @@ categories:
 price: Contact for quote
 header_text: Website Build, Host & SEO
 subtitle: Professional websites that grow your business
-meta_title: Website Build, Host & SEO | C-Results
+meta_title: Professional Website Design & Hosting | Digital Marketing in Thornbury & Nationwide | C-Results
 meta_description: Professional website design, hosting, and SEO services. Build your online presence with secure hosting and search engine optimization.
 features:
   - Custom website design

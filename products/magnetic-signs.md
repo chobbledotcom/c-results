@@ -18,7 +18,7 @@ gallery:
 header_text: A2 Magnetic Flash Deal Signs
 meta_description: A2 and A3 magnetic signs for vehicles and displays. Flash
   deals available - Buy 2 Get 2 Free or 8 for the price of 4!
-meta_title: Magnetic Signs | C-Results
+meta_title: A2 & A3 Vehicle Magnetic Signs from £37 | Signage in Thornbury & Nationwide | C-Results
 ---
 
 ## A2 Magnetic Signs - Flash Deal!

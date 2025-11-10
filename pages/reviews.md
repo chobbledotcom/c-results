@@ -1,6 +1,8 @@
 ---
 header_image: /images/stars.jpg
 header_text: Reviews
+meta_title: Customer Reviews | Print & Marketing Services in Thornbury & Nationwide | C-Results
+meta_description: Read reviews from our satisfied customers. See why businesses trust C-Results for print services, design, and digital marketing.
 eleventyNavigation:
   key: Reviews
   order: 3

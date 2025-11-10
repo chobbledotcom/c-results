@@ -1,7 +1,7 @@
 ---
 header_text: Not Found
-meta_description:
-meta_title: Not Found
+meta_description: Page not found. Return to C-Results homepage for print services, design, and digital marketing.
+meta_title: Page Not Found | C-Results
 no_index: true
 
 permalink: /not_found.html

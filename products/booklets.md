@@ -19,7 +19,7 @@ header_text: Professional Booklets
 meta_description: Professional booklet printing for manuals, catalogues,
   programs, and marketing materials. High-quality multi-page documents with
   professional binding.
-meta_title: Booklets | C-Results Print Services
+meta_title: Professional Multi-Page Booklets & Manuals | Print Services in Thornbury & Nationwide | C-Results
 ---
 
 ## Professional Booklets - Comprehensive Information Delivery

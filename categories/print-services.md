@@ -4,7 +4,7 @@ featured: true
 header_image: /images/price-list.jpg
 header_text: Professional Print Services
 subtitle: High-quality printing for all your business needs
-meta_title: Print Services | C-Results
+meta_title: Professional Flyers, Brochures & Printing | Print Services in Thornbury & Nationwide | C-Results
 meta_description: Professional printing services including flyers, brochures, business cards, and more. Bespoke quality, cheaper than Vistaprint.
 ---
 

@@ -18,7 +18,7 @@ header_text: Logo & Brand Design
 meta_description: Professional logo design, graphic design, and brand
   copywriting services. Build your business brand with creative design
   solutions.
-meta_title: Logo & Brand Design | C-Results
+meta_title: Professional Logo & Brand Identity Design | Design Services in Thornbury & Nationwide | C-Results
 ---
 
 ## Logo & Brand Design - Build Your Business Brand

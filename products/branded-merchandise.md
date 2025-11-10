@@ -19,7 +19,7 @@ header_text: Branded Merchandise
 meta_description: Custom branded merchandise including clothing, promotional
   items, and marketing materials. Boost your brand awareness with quality
   merchandise.
-meta_title: Branded Merchandise | C-Results
+meta_title: Custom Branded Clothing & Promotional Items | Print Services in Thornbury & Nationwide | C-Results
 ---
 
 ## Branded Merchandise - Promote Your Business

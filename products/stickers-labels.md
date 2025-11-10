@@ -18,7 +18,7 @@ gallery:
 header_text: Stickers & Labels
 meta_description: Custom sticker and label printing for products, promotions,
   and branding. All shapes, sizes, and materials available.
-meta_title: Stickers & Labels | C-Results
+meta_title: Custom Stickers & Product Labels | Print Services in Thornbury & Nationwide | C-Results
 ---
 
 ## Stickers & Labels - Custom Solutions for Every Need

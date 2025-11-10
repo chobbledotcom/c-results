@@ -4,7 +4,7 @@ header_text: About C-Results
 meta_description: Learn about C-Results - professional print services, design,
   and digital marketing based in Thornbury. We help businesses thrive with
   quality and competitive pricing.
-meta_title: About Us | C-Results
+meta_title: About C-Results | Print, Design & Digital Marketing in Thornbury & Nationwide | C-Results
 eleventyNavigation:
   key: About
   order: 2

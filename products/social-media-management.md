@@ -16,7 +16,7 @@ gallery:
 header_text: Social Media Management
 meta_description: Professional social media management services. Grow your
   business with strategic content, engagement, and proven marketing strategies.
-meta_title: Social Media Management | C-Results
+meta_title: Grow Your Business with Social Media | Digital Marketing in Thornbury & Nationwide | C-Results
 ---
 
 ## Social Media Management - Grow Your Online Presence
