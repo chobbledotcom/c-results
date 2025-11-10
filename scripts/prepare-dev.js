@@ -8,11 +8,17 @@ const build = path.join(root, buildDir);
 const template = path.join(build, 'template');
 const dev = path.join(build, 'dev');
 
-const templateExcludes = ['.git', 'node_modules', '*.md', 'test', 'test-*'];
-const rootExcludes = ['.git', '*.nix', 'README.md', buildDir, 'scripts', 'node_modules', 'package*.json'];
+const templateExcludes = ['.git', 'node_modules', '*.md', 'test', 'test-*', 'theme-*.scss'];
+const rootExcludes = ['.git', '*.nix', 'README.md', buildDir, 'scripts', 'node_modules', 'package*.json', 'theme-*.scss'];
 
 function prep() {
   console.log('Preparing build...');
+  
+  if (fs.existsSync(build)) {
+    console.log('Cleaning existing build...');
+    fs.rmSync(build, { recursive: true, force: true });
+  }
+  
   fs.mkdirSync(build, { recursive: true });
   
   if (!fs.existsSync(template)) {
@@ -24,8 +30,6 @@ function prep() {
   }
   
   fs.rmSync(path.join(template, 'test'), { recursive: true, force: true });
-  
-  execSync(`find "${dev}" -type f -name "*.md" -delete 2>/dev/null || true`);
   
   const templateExcludeArgs = templateExcludes
     .map(e => `--exclude="${e}"`)
