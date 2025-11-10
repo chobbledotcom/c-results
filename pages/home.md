@@ -15,85 +15,38 @@ permalink: /
 
 ## Your Complete Print & Marketing Solution
 
-Welcome to C-Results! We're your local partner for professional print services, creative design, and digital marketing. Based in Thornbury, we help businesses grow through high-quality printing, stunning design, and effective marketing strategies.
+We're C-Results, based in Thornbury, and we handle print, design, and digital marketing for businesses across the UK. Whether you need 250 business cards or 10,000 flyers, we sort the lot—design, printing, and delivery. Our prices beat [Vistaprint](https://www.vistaprint.co.uk) and other online printers, but you get bespoke quality rather than templates.
 
 ## Our Services
 
 ### Print Services
 
-From business cards to 10,000 flyers, we deliver professional printing with design and delivery included. Bespoke quality, cheaper than Vistaprint!
-
-- **Flyers & Leaflets** - From £94 for 2,000
-- **Business Cards** - From £44 for 250 (£22 special offer!)
-- **Brochures & Booklets** - Professional multi-page documents
-- **Magnetic Signs** - A3 £37, A2 £54
-- **Banners & Posters** - All sizes available
-- **Stickers & Labels** - Custom printing
+We print everything from business cards to large format banners. Flyers and leaflets start at £94 for 2,000 copies, whilst business cards are £44 for 250 (or £22 with our current special offer). We also do brochures, booklets, magnetic signs (A3 for £37, A2 for £54), posters, stickers, and labels. Design and delivery are included in the price, so there's no messing about with hidden costs. Have a look at our [full product range](/products) to see what's available.
 
 ### Design Services
 
-Where creative ideas evolve into design and meet quality print.
-
-- **Logo & Brand Design** - Professional branding
-- **Graphic Design** - Marketing materials
-- **Brand Copywriting** - Compelling messaging
+If you've got ideas but need someone to turn them into something that actually looks right, that's where we come in. We design logos, create graphics for marketing materials, and write copy that sounds like your business rather than a corporate manual. It's all about getting your brand looking consistent and professional without the faff.
 
 ### Digital Marketing
 
-Boost your business with our proven marketing strategy.
-
-- **Social Media Management** - More growth, more clients, guaranteed
-- **Website Build, Host & SEO** - Complete online solutions
-- **Online Marketing** - Strategic campaigns
+We run social media accounts, build websites, and handle SEO so your business actually gets found online. It's straightforward stuff—we work out what your customers are looking for and make sure you're visible. We can also set up and manage online advertising campaigns if that's what you need. No jargon, no six-month "strategies" that go nowhere—just practical marketing that brings in customers.
 
 ### Thornbury Connect Magazine
 
-Reach 7,500 homes in Thornbury with exclusive local advertising!
-
-- Only 1-2 businesses per industry
-- From £99 for half-page adverts
-- Premium placements available
-- FREE online directory listing included
+Our [Thornbury Connect](https://www.thornburyconnect.co.uk) magazine goes out to 7,500 homes in Thornbury every month. We only take one or two businesses per industry, so you're not competing with three other plumbers or electricians on the same page. Half-page adverts start at £99, and everyone who advertises gets a free listing in our online directory. It's proper local advertising that people actually read rather than chuck straight in the recycling.
 
 ## Why Choose C-Results?
 
-### Bespoke Quality
+We're not trying to be the biggest print company in the country—we just want to do good work at fair prices. Everything we print is bespoke rather than churned out from templates, which means your materials actually look like they belong to your business. We offer price matching too, so if you find it cheaper elsewhere, let us know.
 
-We deliver professional results that represent your business perfectly.
+You don't have to be local to work with us. We deliver nationwide, and plenty of our clients are scattered across the UK. But being based in Thornbury means we understand what local businesses need, whether that's quick turnarounds or someone who'll actually answer the phone when you call.
 
-### Competitive Pricing
-
-High-quality services at great prices - and we offer **price matching**!
-
-### Nationwide Service
-
-You don't need to be local to use our services. We work with businesses across the UK.
-
-### Proven Results
-
-We're dedicated to helping your business thrive with our proven marketing strategy.
-
-### All-In-One Solution
-
-From design to print to digital marketing - we handle it all.
+The main advantage of working with us is that we handle everything in one place. Need a website, some business cards, and someone to run your Facebook page? Sorted. No need to coordinate between three different suppliers who don't talk to each other. Check out our [customer reviews](/reviews) to see what other businesses think.
 
 ## Recent Projects
 
-- 10,000 flyers for a family-run scaffolding company
-- Flyers and business cards for a bouncy castle company in Cardiff
-- 10,000 flyers for a local roofing company with QR code integration
-- Scaffolding company promotional materials
-- Interior painting service flyers with 100% customer satisfaction
+We've recently printed 10,000 flyers for a family-run scaffolding company, designed and printed materials for a bouncy castle hire business in Cardiff, and done a big flyer run for a local roofing firm (complete with QR codes for tracking). We've also worked with interior painters, fitness instructors, and all sorts of other businesses. Every job's different, which is what keeps it interesting. If you want to see what our customers actually think, have a look at the [reviews page](/reviews)—we don't cherry-pick the good ones.
 
-## Get Started Today
+## Get in Touch
 
-Ready to grow your business? Contact us for a quote or to discuss your project.
-
-**Contact C-Results:**
-
-- Phone: 01454 837337
-- Mobile: 07727349349
-- Email: cresultsconnect@outlook.com
-- Website: www.thornburyconnect.co.uk
-
-**We offer price matching on all our services!**
+If you want a quote or just need to ask a question, give us a ring on 01454 837337 or 07727 349349, or email us at cresultsconnect@outlook.com. You can also fill in the form on our [contact page](/contact) if that's easier. We usually get back to people the same day, and we're happy to have a chat about what you need before you commit to anything. Remember, we price match—so if you've seen it cheaper elsewhere, let us know and we'll sort it.
