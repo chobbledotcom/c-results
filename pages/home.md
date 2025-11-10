@@ -21,7 +21,7 @@ We're C-Results, based in Thornbury, and we handle print, design, and digital ma
 
 ### Print Services
 
-We print everything from business cards to large format banners. Flyers and leaflets start at £94 for 2,000 copies, whilst business cards are £44 for 250 (or £22 with our current special offer). We also do brochures, booklets, magnetic signs (A3 for £37, A2 for £54), posters, stickers, and labels. Design and delivery are included in the price, so there's no messing about with hidden costs. Have a look at our [full product range](/products) to see what's available.
+We print everything from business cards to large format banners. Flyers and leaflets start at £94 for 2,000 copies, whilst business cards are £44 for 250 (or £22 with our current special offer). We also do brochures, booklets, magnetic signs (A3 for £37, A2 for £54), posters, stickers, and labels. Design and delivery are included in the price, so there's no messing about with hidden costs. Have a look at our [full product range](/products/) to see what's available.
 
 ### Design Services
 
@@ -41,12 +41,12 @@ We're not trying to be the biggest print company in the country—we just want t
 
 You don't have to be local to work with us. We deliver nationwide, and plenty of our clients are scattered across the UK. But being based in Thornbury means we understand what local businesses need, whether that's quick turnarounds or someone who'll actually answer the phone when you call.
 
-The main advantage of working with us is that we handle everything in one place. Need a website, some business cards, and someone to run your Facebook page? Sorted. No need to coordinate between three different suppliers who don't talk to each other. Check out our [customer reviews](/reviews) to see what other businesses think.
+The main advantage of working with us is that we handle everything in one place. Need a website, some business cards, and someone to run your Facebook page? Sorted. No need to coordinate between three different suppliers who don't talk to each other. Check out our [customer reviews](/reviews/) to see what other businesses think.
 
 ## Recent Projects
 
-We've recently printed 10,000 flyers for a family-run scaffolding company, designed and printed materials for a bouncy castle hire business in Cardiff, and done a big flyer run for a local roofing firm (complete with QR codes for tracking). We've also worked with interior painters, fitness instructors, and all sorts of other businesses. Every job's different, which is what keeps it interesting. If you want to see what our customers actually think, have a look at the [reviews page](/reviews)—we don't cherry-pick the good ones.
+We've recently printed 10,000 flyers for a family-run scaffolding company, designed and printed materials for a bouncy castle hire business in Cardiff, and done a big flyer run for a local roofing firm (complete with QR codes for tracking). We've also worked with interior painters, fitness instructors, and all sorts of other businesses. Every job's different, which is what keeps it interesting. If you want to see what our customers actually think, have a look at the [reviews page](/reviews/)—we don't cherry-pick the good ones.
 
 ## Get in Touch
 
-If you want a quote or just need to ask a question, give us a ring on [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349), or email us at [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com). You can also fill in the form on our [contact page](/contact) if that's easier. We usually get back to people the same day, and we're happy to have a chat about what you need before you commit to anything. Remember, we price match—so if you've seen it cheaper elsewhere, let us know and we'll sort it.
+If you want a quote or just need to ask a question, give us a ring on [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349), or email us at [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com). You can also fill in the form on our [contact page](/contact/) if that's easier. We usually get back to people the same day, and we're happy to have a chat about what you need before you commit to anything. Remember, we price match—so if you've seen it cheaper elsewhere, let us know and we'll sort it.
