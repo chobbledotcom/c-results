@@ -1,4 +1,5 @@
 ---
+header_image: /images/about-us.jpg
 header_text: About C-Results
 meta_description: Learn about C-Results - professional print services, design,
   and digital marketing based in Thornbury. We help businesses thrive with
@@ -9,8 +10,9 @@ eleventyNavigation:
   order: 2
 permalink: /about/
 ---
+## About Carl at C-Results
 
-## Welcome to C-Results
+![Carl](/images/about-us.jpg)
 
 We are your complete print and marketing solution, dedicated to helping businesses grow and succeed. Based in Thornbury, we serve businesses locally and across the UK with professional print services, creative design, and effective digital marketing.
 
