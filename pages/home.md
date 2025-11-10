@@ -49,4 +49,4 @@ We've recently printed 10,000 flyers for a family-run scaffolding company, desig
 
 ## Get in Touch
 
-If you want a quote or just need to ask a question, give us a ring on 01454 837337 or 07727 349349, or email us at cresultsconnect@outlook.com. You can also fill in the form on our [contact page](/contact) if that's easier. We usually get back to people the same day, and we're happy to have a chat about what you need before you commit to anything. Remember, we price match—so if you've seen it cheaper elsewhere, let us know and we'll sort it.
+If you want a quote or just need to ask a question, give us a ring on [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349), or email us at [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com). You can also fill in the form on our [contact page](/contact) if that's easier. We usually get back to people the same day, and we're happy to have a chat about what you need before you commit to anything. Remember, we price match—so if you've seen it cheaper elsewhere, let us know and we'll sort it.
