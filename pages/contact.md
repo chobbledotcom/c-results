@@ -13,7 +13,7 @@ permalink: /contact/
 
 ## Get in Touch
 
-Need something printed, designed, or advertised? Give us a ring on **01454 837337** or **07727349349**, or drop an email to **cresultsconnect@outlook.com**. You can also find out more at [www.thornburyconnect.co.uk](https://www.thornburyconnect.co.uk).
+Need something printed, designed, or advertised? Give us a ring on [01454 837337](tel:01454837337) or [07727349349](tel:07727349349), or drop an email to [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com). You can also find out more at [www.thornburyconnect.co.uk](https://www.thornburyconnect.co.uk).
 
 ## What We Do
 
