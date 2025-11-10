@@ -1,6 +1,6 @@
 ---
 title: Magnetic Signs
-header_image: /images/customised-items.png
+header_image: /images/customised-items.jpg
 categories:
   - categories/signage-display.md
   - categories/print-services.md
@@ -20,20 +20,24 @@ meta_description: A2 and A3 magnetic signs for vehicles and displays. Flash
   deals available - Buy 2 Get 2 Free or 8 for the price of 4!
 meta_title: Magnetic Signs | C-Results
 ---
+
 ## A2 Magnetic Signs - Flash Deal!
 
 Transform your vehicle into a mobile advertisement with our double-bubble magnetic signs. Easy to apply, remove, and reposition without damaging your vehicle's paintwork.
 
 ### Pricing:
+
 - A3 Magnetic Sign = £37 each
 - A2 Magnetic Sign = £54 each
 - **Deals on orders of 4+**
 
 ### Special Offers:
+
 - **Buy 2 Get 2 Free**
 - **8 for the price of 4!**
 
 ### Features:
+
 - Strong magnetic backing
 - Weather-resistant
 - Professional printing
@@ -42,6 +46,7 @@ Transform your vehicle into a mobile advertisement with our double-bubble magnet
 - Reusable
 
 ### Perfect For:
+
 - Vehicle branding
 - Temporary promotions
 - Trade shows
@@ -50,6 +55,7 @@ Transform your vehicle into a mobile advertisement with our double-bubble magnet
 - Service vehicles
 
 **Contact us today:**
+
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com

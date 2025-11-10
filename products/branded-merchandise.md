@@ -1,6 +1,6 @@
 ---
 title: Branded Merchandise
-header_image: /images/clothing-printing.png
+header_image: /images/clothing-printing.jpg
 categories:
   - categories/print-services.md
   - categories/design-services.md
@@ -21,6 +21,7 @@ meta_description: Custom branded merchandise including clothing, promotional
   merchandise.
 meta_title: Branded Merchandise | C-Results
 ---
+
 ## Branded Merchandise - Promote Your Business
 
 Boost your brand awareness with custom merchandise. From clothing to promotional items, we can brand anything you desire!
@@ -28,6 +29,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 ### Merchandise Range:
 
 #### Clothing:
+
 - T-shirts and polo shirts
 - Hoodies and sweatshirts
 - Workwear and uniforms
@@ -36,6 +38,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 - Jackets and fleeces
 
 #### Promotional Items:
+
 - Pens and notebooks
 - Keyrings and lanyards
 - Mugs and water bottles
@@ -44,6 +47,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 - Phone accessories
 
 #### Office & Stationery:
+
 - **Branded Stationery** - Letterheads, compliment slips
 - Folders and binders
 - Desk accessories
@@ -51,6 +55,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 - Mouse mats
 
 #### Event Merchandise:
+
 - Exhibition giveaways
 - Conference materials
 - Trade show items
@@ -58,6 +63,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 - Wristbands
 
 ### Decoration Methods:
+
 - **Screen Printing** - Vibrant, durable prints
 - **Embroidery** - Premium, professional finish
 - **Digital Printing** - Full-color, detailed designs
@@ -65,6 +71,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 - **Engraving** - Permanent branding for metal/wood
 
 ### Benefits of Branded Merchandise:
+
 - Increase brand visibility
 - Professional company image
 - Memorable marketing
@@ -73,6 +80,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 - Trade show giveaways
 
 ### Popular Products:
+
 1. **Clothing** - Build team identity and professionalism
 2. **Promotional Pens** - Cost-effective brand exposure
 3. **Tote Bags** - Reusable, eco-friendly promotion
@@ -80,6 +88,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 5. **Notebooks** - Useful items that keep your brand visible
 
 ### Our Service:
+
 - **Wide Product Range** - Anything you desire!
 - **Custom Design** - Unique branding solutions
 - **Quality Products** - Durable, professional items
@@ -87,6 +96,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 - **Expert Advice** - Help choosing the right products
 
 ### Perfect For:
+
 - Corporate gifts
 - Employee welcome kits
 - Trade show giveaways
@@ -96,6 +106,7 @@ Boost your brand awareness with custom merchandise. From clothing to promotional
 - Promotional campaigns
 
 **Contact us to discuss your merchandise needs:**
+
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com

@@ -1,6 +1,6 @@
 ---
 title: Thornbury Connect Magazine
-header_image: /images/thornbury-connect.png
+header_image: /images/thornbury-connect.jpg
 categories:
   - categories/distribution-advertising.md
 price: From £99 per issue
@@ -20,6 +20,7 @@ meta_description: Advertise to 7,500 Thornbury homes with Thornbury Connect
   for half-page adverts.
 meta_title: Thornbury Connect Magazine Advertising | C-Results
 ---
+
 ## Thornbury Connect - Your Exclusive Advertising Opportunity
 
 Get your business seen by 7,500 homes in Thornbury! This is your exclusive chance to reach thousands of local customers through our trusted community magazine.
@@ -29,11 +30,13 @@ Get your business seen by 7,500 homes in Thornbury! This is your exclusive chanc
 **ONLY ONE OR TWO BUSINESSES PER INDUSTRY!** Lock in your spot before your competitor does.
 
 ### Standard Advertising Options:
+
 - **Half-Page A5 Advert** - £99
 - **Full-Page A5 Advert** - £179
 - **Super Premium Loose Flyer** (Inserted with the booklet) - £299
 
 ### Premium Placements:
+
 - **Featured Business Listing** (Priority placement in print & online) - £229
 - **Back Cover** (Most Visible Spot) - £299
 - **Front Inside Cover** (Prime Position) - £279
@@ -43,6 +46,7 @@ Get your business seen by 7,500 homes in Thornbury! This is your exclusive chanc
 - **Next to the Children's Colouring Page** (Perfect for family-friendly businesses) - £259
 
 ### How It Works:
+
 - One-off payment - No contracts, no commitments
 - You decide if you want to continue in the next batch
 - We are committed to YOU - helping you grow with no pressure
@@ -50,12 +54,14 @@ Get your business seen by 7,500 homes in Thornbury! This is your exclusive chanc
 - We only accept reliable businesses
 
 ### BONUS Benefits:
+
 - **FREE online directory listing**
 - Priority exposure across our social media
 - Featured in community groups
 - Reach 7,500 local homes in one go
 
 ### Distribution Coverage:
+
 Reach 7,500 local homes at a time using our booklet through South Gloucestershire distribution.
 
 **DON'T WAIT - ONCE A CATEGORY IS TAKEN, IT'S GONE!**
@@ -63,6 +69,7 @@ Reach 7,500 local homes at a time using our booklet through South Gloucestershir
 Businesses are already on board, and locals are in the talking stages. Your competitors might already be locking in their spot!
 
 **Contact us now:**
+
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com

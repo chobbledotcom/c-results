@@ -1,5 +1,4 @@
 ---
-header_image: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (11).png
 header_text: About C-Results
 meta_description: Learn about C-Results - professional print services, design,
   and digital marketing based in Thornbury. We help businesses thrive with
@@ -10,6 +9,7 @@ eleventyNavigation:
   order: 2
 permalink: /about/
 ---
+
 ## Welcome to C-Results
 
 We are your complete print and marketing solution, dedicated to helping businesses grow and succeed. Based in Thornbury, we serve businesses locally and across the UK with professional print services, creative design, and effective digital marketing.
@@ -23,6 +23,7 @@ We're dedicated to helping your business thrive with our proven marketing strate
 ## What We Do
 
 ### Print Services
+
 We deliver professional printing services that represent your business perfectly:
 
 - **Flyers & Leaflets** - From £94 for 2,000, including design and delivery
@@ -34,6 +35,7 @@ We deliver professional printing services that represent your business perfectly
 - **Branded Merchandise & Clothing** - Anything you desire!
 
 ### Design Services
+
 Where creative ideas evolve into design and meet quality print:
 
 - **Logo & Brand Design** - Professional branding that stands out
@@ -41,6 +43,7 @@ Where creative ideas evolve into design and meet quality print:
 - **Brand Copywriting** - Compelling messaging that converts
 
 ### Digital Marketing
+
 Proven strategies to grow your online presence:
 
 - **Social Media Management** - Strategic content and engagement
@@ -48,6 +51,7 @@ Proven strategies to grow your online presence:
 - **Online Marketing** - Data-driven campaigns
 
 ### Thornbury Connect Magazine
+
 Our flagship local advertising platform:
 
 - Reaches 7,500 homes in Thornbury
@@ -59,19 +63,25 @@ Our flagship local advertising platform:
 ## Our Approach
 
 ### Quality & Value
+
 Bespoke quality, cheaper than Vistaprint! We deliver professional results at competitive prices.
 
 ### Price Matching
+
 We offer price matching on all our services. Find a better quote? We'll match it!
 
 ### Complete Service
+
 From design to print to delivery - we handle everything. All designs in our portfolio are designed by us and posted by us.
 
 ### Nationwide Reach
+
 You don't need to be local to use our services. We work with businesses across the UK.
 
 ### Proven Results
+
 We've completed successful projects for:
+
 - Family-run scaffolding companies
 - Roofing businesses
 - Bouncy castle companies
@@ -93,15 +103,19 @@ We've completed successful projects for:
 ## Our Values
 
 ### Customer Success
+
 We're not satisfied until your business is thriving. Your success is our success.
 
 ### Quality First
+
 Every project receives the same professional attention, whether it's 250 business cards or 10,000 flyers.
 
 ### Fair Pricing
+
 Competitive rates and price matching mean you always get great value.
 
 ### Innovation
+
 We stay current with the latest printing technology and marketing strategies.
 
 ## Get Started

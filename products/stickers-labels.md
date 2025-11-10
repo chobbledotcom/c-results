@@ -1,6 +1,6 @@
 ---
 title: Stickers & Labels
-header_image: /images/products.png
+header_image: /images/products.jpg
 categories:
   - categories/print-services.md
   - categories/business-stationery.md
@@ -20,11 +20,13 @@ meta_description: Custom sticker and label printing for products, promotions,
   and branding. All shapes, sizes, and materials available.
 meta_title: Stickers & Labels | C-Results
 ---
+
 ## Stickers & Labels - Custom Solutions for Every Need
 
 Professional sticker and label printing for products, packaging, promotions, and branding. From simple labels to complex die-cut designs.
 
 ### Sticker Options:
+
 - **Custom Stickers** - Any shape, size, or design
 - Product labels
 - Promotional stickers
@@ -34,6 +36,7 @@ Professional sticker and label printing for products, packaging, promotions, and
 - Barcode labels
 
 ### Available Sizes:
+
 - Small labels (25mm+)
 - Medium stickers
 - Large format
@@ -41,6 +44,7 @@ Professional sticker and label printing for products, packaging, promotions, and
 - Roll labels for dispensers
 
 ### Material Options:
+
 - **Paper** - Cost-effective for indoor use
 - **Vinyl** - Durable and waterproof
 - **Clear** - Transparent labels
@@ -49,6 +53,7 @@ Professional sticker and label printing for products, packaging, promotions, and
 - **Permanent** - Strong adhesive
 
 ### Features:
+
 - Full-color printing
 - Custom shapes available
 - UV-resistant inks
@@ -57,6 +62,7 @@ Professional sticker and label printing for products, packaging, promotions, and
 - Numbered or sequential printing
 
 ### Perfect For:
+
 - Product labeling
 - Packaging
 - Brand promotion
@@ -69,6 +75,7 @@ Professional sticker and label printing for products, packaging, promotions, and
 - Information labels
 
 ### Popular Uses:
+
 - **Businesses** - Product and packaging labels
 - **Events** - Promotional stickers and merchandise
 - **Retail** - Price labels and product information
@@ -76,6 +83,7 @@ Professional sticker and label printing for products, packaging, promotions, and
 - **Branding** - Logo stickers for brand awareness
 
 ### What's Included:
+
 - Professional design service
 - High-quality printing
 - Various material options
@@ -84,6 +92,7 @@ Professional sticker and label printing for products, packaging, promotions, and
 - Delivery included
 
 **Contact us for a quote:**
+
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com

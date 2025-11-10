@@ -1,6 +1,6 @@
 ---
 title: Brochures
-header_image: /images/printing-services.png
+header_image: /images/printing-services.jpg
 categories:
   - categories/print-services.md
 price: From £92 for 250 brochures
@@ -20,20 +20,24 @@ meta_description: Professional brochure printing from 250 to 2,000 copies.
   services.
 meta_title: Brochures | C-Results Print Services
 ---
+
 ## Professional Brochures - Design, Print & Delivery
 
 Showcase your products and services with professionally designed brochures. Perfect for trade shows, presentations, and marketing campaigns.
 
 ### Pricing:
+
 - 250 brochures = £92
 - 500 brochures = £125
 - 1,000 brochures = £169
 - 2,000 brochures = £195
 
 ### What's Included:
+
 Every brochure package includes professional design, high-quality printing on premium paper stock, and delivery. We can create multi-page brochures in various formats to suit your needs.
 
 ### Perfect For:
+
 - Product catalogues
 - Service overviews
 - Company presentations
@@ -44,6 +48,7 @@ Every brochure package includes professional design, high-quality printing on pr
 All designs in our portfolio are designed by us and posted by us, ensuring consistent quality and professional results.
 
 **Contact us today:**
+
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com

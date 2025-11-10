@@ -1,5 +1,4 @@
 ---
-header_image: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (12).png
 header_text: Contact Us
 meta_description: Contact C-Results for print services, design, and digital
   marketing. Phone 01454 837337, mobile 07727349349, or email
@@ -11,6 +10,7 @@ eleventyNavigation:
 layout: contact.html
 permalink: /contact/
 ---
+
 ## Get in Touch
 
 We'd love to hear from you! Whether you need printing services, design work, digital marketing, or want to advertise in Thornbury Connect, we're here to help.
@@ -25,6 +25,7 @@ We'd love to hear from you! Whether you need printing services, design work, dig
 ## Our Services
 
 ### Print Services
+
 - Flyers & Leaflets (from £94 for 2,000)
 - Business Cards (from £44 for 250)
 - Brochures & Booklets
@@ -34,16 +35,19 @@ We'd love to hear from you! Whether you need printing services, design work, dig
 - Branded Merchandise & Clothing
 
 ### Design Services
+
 - Logo & Brand Design
 - Graphic Design
 - Brand Copywriting
 
 ### Digital Marketing
+
 - Social Media Management
 - Website Build, Host & SEO
 - Online Marketing Campaigns
 
 ### Thornbury Connect Magazine
+
 - Reach 7,500 homes in Thornbury
 - Half-page adverts from £99
 - Premium placements available
@@ -69,6 +73,6 @@ When contacting us, it helps to include:
 
 ## Recent Client Feedback
 
-*"Just received my work flyers today and love them they even designed them for me, and only had to wait a couple of days great service and good prices"* - PJ Williams (100% recommend)
+_"Just received my work flyers today and love them they even designed them for me, and only had to wait a couple of days great service and good prices"_ - PJ Williams (100% recommend)
 
 We're dedicated to helping your business thrive with our proven marketing strategy. Contact us today to get started!

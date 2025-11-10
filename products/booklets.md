@@ -1,6 +1,6 @@
 ---
 title: Booklets
-header_image: /images/printing-services.png
+header_image: /images/printing-services.jpg
 categories:
   - categories/print-services.md
 price: Contact for quote
@@ -21,17 +21,20 @@ meta_description: Professional booklet printing for manuals, catalogues,
   professional binding.
 meta_title: Booklets | C-Results Print Services
 ---
+
 ## Professional Booklets - Comprehensive Information Delivery
 
 Perfect for detailed information, booklets provide a professional way to present extensive content. Ideal for product catalogues, training manuals, event programs, and marketing materials.
 
 ### Binding Options:
+
 - **Saddle Stitched** - Professional stapled binding
 - **Perfect Bound** - Square spine, book-like finish
 - **Wire Bound** - Spiral or coil binding for lay-flat use
 - **Loop Stitched** - Secure binding for high-use documents
 
 ### Popular Formats:
+
 - A4, A5, and custom sizes
 - 8-page to 100+ page counts
 - Various paper weights
@@ -39,6 +42,7 @@ Perfect for detailed information, booklets provide a professional way to present
 - Full-color or black & white
 
 ### Perfect For:
+
 - Product catalogues
 - Training manuals
 - Event programs
@@ -51,6 +55,7 @@ Perfect for detailed information, booklets provide a professional way to present
 - Annual reports
 
 ### What's Included:
+
 - Professional design service
 - High-quality printing
 - Professional binding
@@ -59,6 +64,7 @@ Perfect for detailed information, booklets provide a professional way to present
 - Design consultation
 
 ### Features:
+
 - Multiple page counts available
 - Custom sizes and formats
 - Professional binding options
@@ -69,6 +75,7 @@ Perfect for detailed information, booklets provide a professional way to present
 All designs are created by us and printed by us, ensuring consistent quality and professional results from concept to delivery.
 
 **Contact us for a quote:**
+
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com

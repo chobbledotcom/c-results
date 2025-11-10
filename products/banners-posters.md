@@ -1,6 +1,5 @@
 ---
 title: Banners & Posters
-header_image: /images/posters.png
 categories:
   - categories/signage-display.md
   - categories/print-services.md
@@ -21,11 +20,13 @@ meta_description: Professional banner and poster printing for events,
   turnaround.
 meta_title: Banners & Posters | C-Results
 ---
+
 ## Banners & Posters - Make an Impact
 
 Create visual impact with professional banners and posters. Perfect for events, promotions, exhibitions, and business advertising.
 
 ### Banner Options:
+
 - **All Kinds of Banners** - Custom sizes and specifications
 - Pull-up banners for events
 - Outdoor vinyl banners
@@ -35,6 +36,7 @@ Create visual impact with professional banners and posters. Perfect for events, 
 - Fence banners
 
 ### Poster Printing:
+
 - A4 to A0 sizes
 - Large format printing
 - Indoor and outdoor options
@@ -42,12 +44,14 @@ Create visual impact with professional banners and posters. Perfect for events, 
 - Laminated or mounted
 
 ### Materials Available:
+
 - **Vinyl** - Durable, weather-resistant for outdoor use
 - **Fabric** - Professional finish for indoor displays
 - **Mesh** - Wind-resistant for outdoor applications
 - **Paper** - Cost-effective for short-term use
 
 ### Features:
+
 - Full-color printing
 - High-resolution output
 - UV-resistant inks
@@ -56,6 +60,7 @@ Create visual impact with professional banners and posters. Perfect for events, 
 - Pole pockets available
 
 ### Perfect For:
+
 - Trade shows and exhibitions
 - Retail promotions
 - Event advertising
@@ -66,6 +71,7 @@ Create visual impact with professional banners and posters. Perfect for events, 
 - Directional signage
 
 ### What's Included:
+
 - Professional design service
 - High-quality printing
 - Various mounting options
@@ -73,6 +79,7 @@ Create visual impact with professional banners and posters. Perfect for events, 
 - Design consultation
 
 ### Why Choose C-Results?
+
 - Wide range of sizes and materials
 - Quick turnaround times
 - Competitive pricing
@@ -80,6 +87,7 @@ Create visual impact with professional banners and posters. Perfect for events, 
 - Expert design support
 
 **Contact us for a quote:**
+
 - Phone: 01454 837337
 - Mobile: 07727349349
 - Email: cresultsconnect@outlook.com
