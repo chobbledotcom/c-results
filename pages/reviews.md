@@ -1,4 +1,5 @@
 ---
+header_image: /images/stars.jpg
 header_text: Reviews
 eleventyNavigation:
   key: Reviews
