@@ -79,7 +79,7 @@ main article {
 }
 
 #homepage-products {
-  background-color: #3f3f3f;
+  background-color: #353535;
   padding: 2rem;
   margin: -1rem -1rem 2rem;
   position: relative;
@@ -87,16 +87,27 @@ main article {
   &::after {
     content: "";
     display: block;
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100"><g fill="%233F3F3F"><path d="M0 0v99.7C62 69 122.4 48.7 205 66c83.8 17.6 160.5 20.4 240-12 54-22 110-26 173-10a392.2 392.2 0 0 0 222-5c55-17 110.3-36.9 160-27.2V0H0Z" opacity=".5"></path><path d="M0 0v74.7C62 44 122.4 28.7 205 46c83.8 17.6 160.5 25.4 240-7 54-22 110-21 173-5 76.5 19.4 146.5 23.3 222 0 55-17 110.3-31.9 160-22.2V0H0Z"></path></g></svg>');
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100"><g fill="%23353535"><path d="M0 0v99.7C62 69 122.4 48.7 205 66c83.8 17.6 160.5 20.4 240-12 54-22 110-26 173-10a392.2 392.2 0 0 0 222-5c55-17 110.3-36.9 160-27.2V0H0Z" opacity=".5"></path><path d="M0 0v74.7C62 44 122.4 28.7 205 46c83.8 17.6 160.5 25.4 240-7 54-22 110-21 173-5 76.5 19.4 146.5 23.3 222 0 55-17 110.3-31.9 160-22.2V0H0Z"></path></g></svg>');
     position: absolute;
     top: calc(100% - 1px);
     left: 0;
     width: 100%;
     aspect-ratio: 10;
     background-size: 100% 100%;
+    z-index: -1;
   }
 
   ul.items {
     margin-bottom: 0;
   }
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #65a147;
+  text-decoration-style: wavy;
 }
