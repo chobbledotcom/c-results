@@ -1,5 +1,5 @@
 ---
-header_text: Our Products & Services
+header_text: Marketing Products & Services
 meta_description: Browse all C-Results products and services - from flyers and
   business cards to websites and social media management. Quality printing and
   marketing solutions.
@@ -14,21 +14,6 @@ permalink: /products/
 ## Your Complete Business Growth Partner
 
 From high-quality printing to comprehensive digital marketing, we provide everything you need to grow your business.
-
-## Service Categories
-
-Browse our services by category to find exactly what you need for your business. From traditional print services to cutting-edge digital marketing, we've got you covered.
-
-**Featured Categories:**
-
-- **[Print Services](/categories/print-services/)** - Professional printing with design and delivery included
-- **[Design Services](/categories/design-services/)** - Where creative ideas evolve into design
-- **[Digital Marketing](/categories/digital-marketing/)** - Proven strategies to help your business thrive
-- **[Business Stationery](/categories/business-stationery/)** - Professional business materials
-- **[Signage & Display](/categories/signage-display/)** - Eye-catching signs and banners
-- **[Distribution & Advertising](/categories/distribution-advertising/)** - Reach 7,500 homes in Thornbury
-
----
 
 ## Why Choose C-Results?
 
@@ -60,6 +45,8 @@ Explore our complete range of products below. From high-quality printing to comp
 
 **Contact us today for a quote:**
 
-Phone: 01454 837337 | Mobile: 07727349349 | Email: cresultsconnect@outlook.com
+- Phone: [01454 837337](tel:01454837337)
+- Mobile: [07727349349](tel:07727349349)
+- Email: [click here](/contact/)
 
 **We offer price matching on all our services!**
