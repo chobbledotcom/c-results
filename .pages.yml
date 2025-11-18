@@ -132,6 +132,7 @@ content:
     path: _data/site.json
     fields:
       - { name: name, type: string, label: Site Name }
+      - { name: header_subtitle, type: string, label: Site Subtitle }
       - { name: url, type: string, label: Site URL }
       - name: opening_times
         label: Opening Times

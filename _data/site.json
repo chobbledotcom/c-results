@@ -11,5 +11,6 @@
 	},
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
-	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"
+	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
+	"header_subtitle": "Design, Marketing & Distribution in Thornbury & Nationwide"
 }
