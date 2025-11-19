@@ -2,6 +2,7 @@
 title: Branded Car Air Fresheners
 categories:
   - categories/print-services.md
+  - categories/bespoke-air-fresheners.md
 options:
   - name: 250x
     max_quantity: 1
