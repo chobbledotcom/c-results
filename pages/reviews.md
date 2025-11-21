@@ -9,4 +9,4 @@ permalink: /reviews/
 ---
 ## What customers say
 
-I really appreciate all the lovely reviews people have left on [our Facebook page](https://www.facebook.com/profile.php?id=61570734306699). You can see some of those below:
+I really appreciate all the lovely reviews people have left on [our Facebook page](https://www.facebook.com/profile.php?id=61556140503971). You can see some of those below:
