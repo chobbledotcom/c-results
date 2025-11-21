@@ -10,121 +10,49 @@ eleventyNavigation:
   order: 2
 permalink: /about/
 ---
-## About Carl at C-Results
+## Meet Carl from C-Results
 
 ![Carl](/images/about-us.jpg)
 
-We are your complete print and marketing solution, dedicated to helping businesses grow and succeed. Based in Thornbury, we serve businesses locally and across the UK with professional print services, creative design, and effective digital marketing.
+I'm Carl, and I run C-Results from Thornbury. When you work with us, you're dealing directly with me - no call centres, no account managers, just me sorting out your print, design and marketing needs. Whether you need 250 business cards or 10,000 flyers, I'll handle the design, printing and delivery myself at prices that beat Vistaprint.
 
-## Our Mission
+## What I can do for you
 
-**Need a boost? More growth, more clients, guaranteed!**
+I've been helping businesses with their marketing for years now, and I've built up a good network of suppliers and contacts to get things done properly. From a simple logo design to a complete website, or managing your social media to printing thousands of leaflets, I can handle it all from my base here in Thornbury. You don't need to coordinate between different suppliers - just give me a ring and I'll sort everything out.
 
-We're dedicated to helping your business thrive with our proven marketing strategy. From high-quality printing to comprehensive digital marketing, we provide the tools and expertise you need to stand out and succeed.
+## Print services that actually work
 
-## What We Do
+Need flyers? I'll print 2,000 for £94 including design and delivery. Business cards start from £44 for 250, though we're running a special offer at £22 right now. I also do brochures, booklets, magnetic signs (A3 for £37, A2 for £54), banners, posters, stickers, labels and branded merchandise. Everything's printed to order and I handle the design work myself, so you're not getting some generic template - it's all bespoke to your business.
 
-### Print Services
+## More than just printing
 
-We deliver professional printing services that represent your business perfectly:
+I don't just do print. I can design your logo, create your marketing materials, write your copy, build your website, and manage your social media. I've helped scaffolding companies, roofers, bouncy castle hire businesses, combat sports gyms, and loads of other local businesses get more work than they can handle. One customer told me their business "sky rocketed" after we did their flyer campaign with QR codes for tracking.
 
-- **Flyers & Leaflets** - From £94 for 2,000, including design and delivery
-- **Business Cards** - From £44 for 250 (special offer £22!)
-- **Brochures & Booklets** - Professional multi-page documents
-- **Magnetic Signs** - A3 £37, A2 £54 with flash deals
-- **Banners & Posters** - All sizes and materials
-- **Stickers & Labels** - Custom printing for any purpose
-- **Branded Merchandise & Clothing** - Anything you desire!
+## Thornbury Connect Magazine
 
-### Design Services
+I also run Thornbury Connect, our local magazine that goes to 7,500 homes in Thornbury. We only take one or two businesses per industry, so you won't be competing with similar companies. Half-page adverts start from £99, and you get a free online directory listing included. It's a great way to reach local customers if you're based around here.
 
-Where creative ideas evolve into design and meet quality print:
+## How I work
 
-- **Logo & Brand Design** - Professional branding that stands out
-- **Graphic Design** - Marketing materials that engage
-- **Brand Copywriting** - Compelling messaging that converts
+When you contact me, we'll have a real conversation about what you need. I'm flexible - if you need to change something last minute or tweak a design, that's no problem. I often deliver earlier than expected because I know how important it is to get your marketing materials when you need them. Several customers have mentioned that I respond quickly to messages and always deliver on time.
 
-### Digital Marketing
+## Fair prices, guaranteed
 
-Proven strategies to grow your online presence:
+I'm not trying to be the biggest print company in the country - I just want to do good work at fair prices. If you find it cheaper elsewhere, I'll match the price. My prices already beat Vistaprint but you're getting bespoke quality, not some online template. Plus, when you order online through our website or use the enquiry form, everything's straightforward and transparent.
 
-- **Social Media Management** - Strategic content and engagement
-- **Website Build, Host & SEO** - Complete online solutions
-- **Online Marketing** - Data-driven campaigns
+## Recent work
 
-### Thornbury Connect Magazine
+Just recently I've printed 10,000 flyers for a family scaffolding company, sorted all the marketing materials for a Cardiff bouncy castle business, designed a logo and printed 15,000 leaflets for Demon Bull Combat Sports, and done free charity work for CK9 School & Rescue. Every job gets the same attention to detail, whether it's a small run of business cards or thousands of flyers.
 
-Our flagship local advertising platform:
+## Based in Thornbury, delivering nationwide
 
-- Reaches 7,500 homes in Thornbury
-- Only 1-2 businesses per industry
-- From £99 for half-page adverts
-- Premium placements from £229-£349
-- FREE online directory listing included
+While I'm based in Thornbury, South Gloucestershire, I work with businesses across the UK. Everything's sent by post or courier, so it doesn't matter if you're in Cardiff, Birmingham or anywhere else - I can still help with your printing and marketing needs.
 
-## Our Approach
+## Let's chat about your business
 
-### Quality & Value
-
-Bespoke quality, cheaper than Vistaprint! We deliver professional results at competitive prices.
-
-### Price Matching
-
-We offer price matching on all our services. Find a better quote? We'll match it!
-
-### Complete Service
-
-From design to print to delivery - we handle everything. All designs in our portfolio are designed by us and posted by us.
-
-### Nationwide Reach
-
-You don't need to be local to use our services. We work with businesses across the UK.
-
-### Proven Results
-
-We've completed successful projects for:
-
-- Family-run scaffolding companies
-- Roofing businesses
-- Bouncy castle companies
-- Painting services
-- And many more!
-
-## Why Choose C-Results?
-
-**All-In-One Solution** - Print, design, digital marketing, and local advertising all in one place
-
-**Professional Quality** - Where creative ideas evolve into design and meet quality print
-
-**Fast Turnaround** - Quick delivery without compromising on quality
-
-**Expert Support** - Dedicated to helping your business succeed
-
-**Proven Track Record** - 100% customer recommendations and satisfied clients
-
-## Our Values
-
-### Customer Success
-
-We're not satisfied until your business is thriving. Your success is our success.
-
-### Quality First
-
-Every project receives the same professional attention, whether it's 250 business cards or 10,000 flyers.
-
-### Fair Pricing
-
-Competitive rates and price matching mean you always get great value.
-
-### Innovation
-
-We stay current with the latest printing technology and marketing strategies.
-
-## Get Started
-
-Ready to grow your business? Contact us today!
+If you want to grow your business with effective marketing, give me a ring and we'll talk through what you need. No hard sell, no corporate waffle, just practical advice on what'll work for your business. You can order online through our website or fill in the enquiry form if you prefer, but I'm always happy to chat on the phone first.
 
 **Phone:** 01454 837337
-**Mobile:** 07727349349
+**Mobile:** 07727 349349
 **Email:** cresultsconnect@outlook.com
 **Website:** www.thornburyconnect.co.uk

@@ -21,74 +21,41 @@ meta_description: Professional banner and poster printing for events,
 meta_title: Banners & Posters | C-Results
 ---
 
-## Banners & Posters - Make an Impact
+## Banners & Posters - Sorted
 
-Create visual impact with professional banners and posters. Perfect for events, promotions, exhibitions, and business advertising.
+Right, let's talk banners and posters. Whether you need a massive vinyl banner for your shopfront or pull-up banners for a trade show, I'll sort it. Carl here in Thornbury, and I handle everything from design to delivery.
 
-### Banner Options:
+### What I Print
 
-- **All Kinds of Banners** - Custom sizes and specifications
-- Pull-up banners for events
-- Outdoor vinyl banners
-- Indoor fabric banners
-- Exhibition banners
-- Building wraps
-- Fence banners
+For banners, I do the lot. Pull-up banners are dead handy for events - they pop up from a base and pack away in seconds. Outdoor vinyl banners that actually last in British weather, not the rubbish that fades after a month. Mesh banners for windy spots where the wind goes through instead of ripping them down. Fabric banners for indoor events that look really professional. And fence banners for building sites that get your message across from a distance.
 
-### Poster Printing:
+Posters? Everything from A4 to massive A0 sizes. Cheap paper ones work brilliantly for short-term promotions. Need them to last? I'll laminate them. Want them rigid for window displays? I'll mount them on boards.
 
-- A4 to A0 sizes
-- Large format printing
-- Indoor and outdoor options
-- Various paper stocks
-- Laminated or mounted
+### Recent Jobs
 
-### Materials Available:
+Just finished 20 pull-up banners for a gym in Bristol - they use them for different classes. Did fence banners for a scaffolding firm last month - 10 metres long, you can't miss them. Also sorted posters for a Thornbury cafe's new menu launch - 50 A3 posters, delivered next day.
 
-- **Vinyl** - Durable, weather-resistant for outdoor use
-- **Fabric** - Professional finish for indoor displays
-- **Mesh** - Wind-resistant for outdoor applications
-- **Paper** - Cost-effective for short-term use
+### Why Banners Beat Other Marketing
 
-### Features:
+Unlike [flyers](/products/flyers-leaflets) that disappear quickly, a good banner works for months or years. One customer told me their roadside banner brings in more work than their [website](/products/website-build-hosting) - and it only cost them £120. 
 
-- Full-color printing
-- High-resolution output
-- UV-resistant inks
-- Various finishing options
-- Eyelets and hanging systems
-- Pole pockets available
+### What You're Getting
 
-### Perfect For:
+I design it, print it, and deliver it. Need eyelets for hanging? Done. Pole pockets? No problem. Not sure what size you need? Ring me and we'll work it out. I've been doing this long enough to know what works.
 
-- Trade shows and exhibitions
-- Retail promotions
-- Event advertising
-- Business signage
-- Product launches
-- Grand openings
-- Sales promotions
-- Directional signage
+If you're already getting [business cards](/products/business-cards) or [magnetic signs](/products/magnetic-signs) from me, I'll make sure your banner matches your brand perfectly.
 
-### What's Included:
+### Pricing
 
-- Professional design service
-- High-quality printing
-- Various mounting options
-- Delivery or collection
-- Design consultation
+Every job's different - a small poster costs pennies, a building wrap costs serious money. But here's the thing - I'll match any quote you've got. Just found it cheaper online? Show me and I'll match it, plus you get to deal with me directly, not some call centre.
 
-### Why Choose C-Results?
+### Get a Quote
 
-- Wide range of sizes and materials
-- Quick turnaround times
-- Competitive pricing
-- Professional quality
-- Expert design support
+Use the enquiry form on this page for a quick quote, or give me a ring to discuss what you need.
 
-**Contact us for a quote:**
-
+**Contact:**
 - Phone: 01454 837337
-- Mobile: 07727349349
+- Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
-- **We offer price matching!**
+
+*Quick turnaround, fair prices, and you're dealing with Carl, not a corporation.*

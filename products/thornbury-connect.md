@@ -52,56 +52,39 @@ meta_description: Advertise to 7,500 Thornbury homes with Thornbury Connect
 meta_title: Thornbury Connect Magazine Advertising | C-Results
 ---
 
-## Thornbury Connect - Your Exclusive Advertising Opportunity
+## Thornbury Connect Magazine - 7,500 Homes, One Advert
 
-Get your business seen by 7,500 homes in Thornbury! This is your exclusive chance to reach thousands of local customers through our trusted community magazine.
+Carl here. I run Thornbury Connect magazine - it goes through 7,500 doors in Thornbury and surrounding areas. Here's the clever bit: I only take one or two businesses from each industry. So if you're in, your competitors are out.
 
-### THE CAT IS OUT OF THE BAG!
+### The Deal
 
-**ONLY ONE OR TWO BUSINESSES PER INDUSTRY!** Lock in your spot before your competitor does.
+Half-page adverts start at £99, full-page at £179. Want to really stand out? Get your loose flyer inserted for £299 - people can't ignore those. Premium spots like the back cover (£299) or next to the crossword (£259) get more eyes. The front cover feature at £349 is brilliant - your business on the actual cover.
 
-### Standard Advertising Options:
+But here's what makes this different from other advertising. It's one-off payment, no contracts, no direct debit nonsense. Try it once, see if it works. Most businesses come back because it does work, but there's no pressure. Plus you get a free online directory listing and I share your business across social media - that's worth the price alone.
 
-- **Half-Page A5 Advert** - £99
-- **Full-Page A5 Advert** - £179
-- **Super Premium Loose Flyer** (Inserted with the booklet) - £299
+### Why This Works
 
-### Premium Placements:
+People trust Thornbury Connect. We're a local magazine with useful stuff in it - local events, puzzle pages, kids' activities - rather than junk mail that goes straight in the bin. Your advert sits alongside content people actually want to read. One plumber told me he gets more calls from his Thornbury Connect ad than his [website](/products/website-build-hosting) and [flyers](/products/flyers-leaflets) combined.
 
-- **Featured Business Listing** (Priority placement in print & online) - £229
-- **Back Cover** (Most Visible Spot) - £299
-- **Front Inside Cover** (Prime Position) - £279
-- **Back Inside Cover** - £249
-- **Front Cover Feature** (Your business on the front cover with "Support Local" chalkboard) - £349
-- **Next to the Crossword Page** (Highly engaged section) - £259
-- **Next to the Children's Colouring Page** (Perfect for family-friendly businesses) - £259
+The limited spots per industry means you're not fighting for attention with five other plumbers on the same page. You're the plumber in that issue. That exclusivity is gold.
 
-### How It Works:
+### Who's Already In
 
-- One-off payment - No contracts, no commitments
-- You decide if you want to continue in the next batch
-- We are committed to YOU - helping you grow with no pressure
-- Limited competing businesses in the same category
-- We only accept reliable businesses
+I've got roofers, decorators, dog walkers, cleaners, gardeners - genuine local businesses that locals want to use. Not big chains, not franchises - real people running real businesses in Thornbury. The sort of businesses that turn up when they say they will and do the job right.
 
-### BONUS Benefits:
+### Recent Success
 
-- **FREE online directory listing**
-- Priority exposure across our social media
-- Featured in community groups
-- Reach 7,500 local homes in one go
+A carpet cleaner took a half-page ad in the last issue - got 12 bookings in the first week. A tree surgeon went for the back cover - he's booked solid through to March. A beauty therapist took a spot next to the colouring page (clever, that - mums see it) - she's had to take on another therapist to keep up.
 
-### Distribution Coverage:
+### How to Get In
 
-Reach 7,500 local homes at a time using our booklet through South Gloucestershire distribution.
+Spots are genuinely limited. Once I've got a plumber, that's it for plumbers in that issue. First come, first served. Use the enquiry form on this page to check if your category's still available, or buy online if you know what you want.
 
-**DON'T WAIT - ONCE A CATEGORY IS TAKEN, IT'S GONE!**
+Don't wait about thinking it over - your competitor might be filling in the form right now.
 
-Businesses are already on board, and locals are in the talking stages. Your competitors might already be locking in their spot!
-
-**Contact us now:**
-
+**Contact:**
 - Phone: 01454 837337
-- Mobile: 07727349349
+- Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
-- Website: www.thornburyconnect.co.uk
+
+*Next issue going to print soon - get in now or wait months for the next chance.*

@@ -7,6 +7,8 @@ no_index: true
 permalink: /not_found.html
 ---
 
-## Page Not Found
+## That page has gone walkabout
 
-Whoops! It looks like you followed an invalid link - **[click here to go back to the homepage](/)**.
+Sorry, can't find that page - the link might be old or there's been a typo somewhere. No worries though, just **[head back to the homepage](/)** and you'll find what you're looking for.
+
+Or if you were looking for something specific, give Carl a ring on 01454 837337 and I'll point you in the right direction.

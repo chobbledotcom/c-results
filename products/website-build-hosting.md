@@ -19,53 +19,41 @@ gallery:
   - /images/business-building.jpg
 ---
 
-## Website Build, Host & SEO - Your Complete Online Solution
+## Websites That Actually Get Found
 
-Build your business with us! We offer complete website solutions including design, hosting, and SEO to ensure your business thrives online.
+Carl here. No point having a website if nobody can find it. I build sites that look professional, work on phones, and actually show up on Google when people search for what you do.
 
-### Services Include:
-- **Website Build** - Custom-designed websites tailored to your business
-- **Hosting & SEO** - Secure hosting with search engine optimization
-- **Online Booking** - Integrated booking systems for service businesses
-- **Mobile Responsive** - Perfect display on all devices
+### What You're Getting
 
-### What's Included:
-- Professional website design
-- Secure, reliable hosting
-- SEO optimization for better search rankings
-- Content management system
-- Mobile-responsive design
-- SSL security certificate
-- Regular backups
-- Technical support
+A custom website, not a template with your name stuck on it. I build it from scratch to do exactly what your business needs. Booking system for appointments? Sorted. Gallery to show your work? Done. Online shop? Can do that too. Plus it'll work perfectly on phones - that's where most people look at websites now.
 
-### Perfect For:
-- Start-ups and new businesses
-- Established businesses needing a web presence
-- Service businesses requiring online booking
-- E-commerce businesses
-- Portfolio websites
-- Business directories
+The hosting's included so you don't need to faff about with technical stuff. SSL certificate so browsers don't scare customers away with security warnings. Regular backups in case anything goes wrong. And I handle updates and maintenance so it keeps working.
 
-### Our Process:
-1. **Consultation** - Understand your business and goals
-2. **Design** - Create a custom design that represents your brand
-3. **Development** - Build your website with modern technology
-4. **SEO** - Optimize for search engines
-5. **Launch** - Deploy to secure hosting
-6. **Support** - Ongoing maintenance and support
+### SEO That Works
 
-### Why Choose C-Results?
-- **All-in-One Solution** - Design, hosting, and SEO in one package
-- **Professional Quality** - Modern, responsive websites
-- **SEO Optimized** - Better visibility in search results
-- **Ongoing Support** - We're here when you need us
-- **Competitive Pricing** - Quality service at affordable rates
+What's the point of a website nobody sees? I set up your site so Google understands what you do and where you are. Local business? You'll show up when people search for your service in your area. Just sorted a website for a plumber in Yate - he's now on page one for "plumber Yate" and getting calls from it.
 
-Whether you're a first-year business, an established company securing your legacy, or somewhere in between - we have the solution for you.
+Not just technical SEO either. I write content that actually helps your customers while telling Google what you're about. Add your [business cards](/products/business-cards) and [flyers](/products/flyers-leaflets) with QR codes pointing to your site, suddenly everything's working together.
 
-**Contact us today:**
+### Recent Sites
+
+Just launched a site for a dog grooming business - online booking system, gallery of their work, links perfectly with their [social media](/products/social-media-management). Built one for a scaffolding company with a quote request form - they're getting three enquiries a week from it. Also did a portfolio site for a decorator - before and after photos that actually sell the work.
+
+### Why Not DIY?
+
+You could use Wix or Squarespace, save a few quid. But when something breaks, you're stuffed. When you need something specific they don't do, tough luck. And good luck getting decent SEO from a template site. One customer came to me after two years with a DIY site that had zero visitors. Zero. Built them a custom site, now they're getting steady enquiries.
+
+### How It Works
+
+We have a chat about what you need, I build it, you check it, we launch it. Then I keep it running, updated, and backed up. You focus on your business, I handle the website. If your [logo](/products/logo-brand-design) and branding are already sorted, brilliant. If not, I'll sort that first.
+
+### Get Started
+
+Fill in the enquiry form on this page or ring me to discuss what you need. Prices depend on what you want - a simple five-page site costs less than a full e-commerce setup.
+
+**Contact:**
 - Phone: 01454 837337
-- Mobile: 07727349349
+- Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
-- Website: www.thornburyconnect.co.uk
+
+*Packages from £499 including first year's hosting - cheaper than most agencies charge for just the design.*

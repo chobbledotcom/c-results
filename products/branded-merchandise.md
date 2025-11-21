@@ -22,92 +22,43 @@ meta_description: Custom branded merchandise including clothing, promotional
 meta_title: Branded Merchandise | C-Results
 ---
 
-## Branded Merchandise - Promote Your Business
+## Branded Merchandise - Get Your Logo on Everything
 
-Boost your brand awareness with custom merchandise. From clothing to promotional items, we can brand anything you desire!
+Right, Carl here. Want your logo on t-shirts, mugs, pens, or pretty much anything else? I'll sort it. Whether you need workwear for your team or giveaways for a trade show, I've got suppliers for everything.
 
-### Merchandise Range:
+### What I Can Brand
 
-#### Clothing:
+For clothing, I do t-shirts, polo shirts, hoodies, workwear, hi-vis gear, caps, jackets - the lot. Just sorted 50 embroidered polos for a plumbing firm in Bristol. They look really smart and cost less than you'd think.
 
-- T-shirts and polo shirts
-- Hoodies and sweatshirts
-- Workwear and uniforms
-- Hi-vis clothing
-- Caps and hats
-- Jackets and fleeces
+Promotional items are brilliant for getting your name out there. Pens are still the most popular - everyone nicks pens, so your logo travels everywhere. Mugs and water bottles work well for offices. Keyrings, lanyards, USB drives, tote bags - I can get your logo on pretty much anything. Even did branded dog leads for a dog walking business last month.
 
-#### Promotional Items:
+Office stuff too. Letterheads, compliment slips, folders, calendars, mouse mats. One estate agent orders branded notebooks every quarter - gives them to clients at viewings. Smart move, that.
 
-- Pens and notebooks
-- Keyrings and lanyards
-- Mugs and water bottles
-- USB drives
-- Tote bags
-- Phone accessories
+For events and trade shows, I sort everything from badges to wristbands. Just did 500 tote bags for a company at the NEC - they filled them with [flyers](/products/flyers-leaflets) and samples. Went down a storm.
 
-#### Office & Stationery:
+### How It's Done
 
-- **Branded Stationery** - Letterheads, compliment slips
-- Folders and binders
-- Desk accessories
-- Calendars and planners
-- Mouse mats
+Screen printing works brilliantly for t-shirts and bags - vibrant colours that last. Embroidery looks more upmarket, perfect for workwear and caps. Digital printing handles full-colour designs with loads of detail. Need it quick? Heat transfer gets it done fast. For metal items like pens or USB drives, engraving looks the business.
 
-#### Event Merchandise:
+### Recent Jobs That Worked Well
 
-- Exhibition giveaways
-- Conference materials
-- Trade show items
-- Event badges
-- Wristbands
+A scaffolding company ordered hi-vis vests with their logo and phone number massive on the back. Now they're walking adverts on every job site. A cafe got branded aprons - staff look professional and customers remember the brand. A gym ordered 1,000 water bottles as new member gifts - cheaper than a month's Facebook ads and keeps working for years.
 
-### Decoration Methods:
+### Why Merchandise Beats Other Marketing
 
-- **Screen Printing** - Vibrant, durable prints
-- **Embroidery** - Premium, professional finish
-- **Digital Printing** - Full-color, detailed designs
-- **Heat Transfer** - Quick turnaround option
-- **Engraving** - Permanent branding for metal/wood
+Unlike [business cards](/products/business-cards) that sit in drawers, branded merchandise gets used. A decent hoodie with your logo becomes someone's favourite, worn everywhere. A good quality pen might last years, getting your brand seen daily. And unlike paying for [social media](/products/social-media-management) ads that disappear, merchandise keeps working.
 
-### Benefits of Branded Merchandise:
+### What You're Getting
 
-- Increase brand visibility
-- Professional company image
-- Memorable marketing
-- Customer loyalty rewards
-- Employee uniforms
-- Trade show giveaways
+I'll help you pick the right products for your budget, sort the design (making sure it matches your other materials if you're already a customer), handle all the printing or embroidery, and deliver the lot to you. No minimum orders on loads of items - need just 10 t-shirts? No problem.
 
-### Popular Products:
+### Get Started
 
-1. **Clothing** - Build team identity and professionalism
-2. **Promotional Pens** - Cost-effective brand exposure
-3. **Tote Bags** - Reusable, eco-friendly promotion
-4. **Water Bottles** - Practical, long-lasting visibility
-5. **Notebooks** - Useful items that keep your brand visible
+Use the enquiry form on this page to tell me what you're after, or ring for a chat about options and prices.
 
-### Our Service:
-
-- **Wide Product Range** - Anything you desire!
-- **Custom Design** - Unique branding solutions
-- **Quality Products** - Durable, professional items
-- **Competitive Pricing** - Great value for money
-- **Expert Advice** - Help choosing the right products
-
-### Perfect For:
-
-- Corporate gifts
-- Employee welcome kits
-- Trade show giveaways
-- Customer appreciation
-- Event merchandise
-- Team uniforms
-- Promotional campaigns
-
-**Contact us to discuss your merchandise needs:**
-
+**Contact:**
 - Phone: 01454 837337
-- Mobile: 07727349349
+- Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
-- **We offer price matching!**
+
+*Price matching available - find it cheaper elsewhere and I'll match it.*

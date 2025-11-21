@@ -21,79 +21,39 @@ meta_description: Custom sticker and label printing for products, promotions,
 meta_title: Stickers & Labels | C-Results
 ---
 
-## Stickers & Labels - Custom Solutions for Every Need
+## Stickers & Labels - Stick Your Brand Everywhere
 
-Professional sticker and label printing for products, packaging, promotions, and branding. From simple labels to complex die-cut designs.
+Carl here. Need labels for products, stickers for promotions, or anything sticky with your logo on it? I print the lot, from tiny price labels to massive window stickers.
 
-### Sticker Options:
+### What I Print
 
-- **Custom Stickers** - Any shape, size, or design
-- Product labels
-- Promotional stickers
-- Brand stickers
-- Packaging labels
-- Security labels
-- Barcode labels
+Anything sticky really. Product labels for jars, bottles, boxes - just did 5,000 for a local honey producer, waterproof vinyl so they don't peel off in shops. Promotional stickers that people actually want to stick places - laptop stickers are massive right now. Security labels that show if someone's tampered with packaging. Even boring stuff like barcode labels and sequential numbering for stock control.
 
-### Available Sizes:
+Custom shapes too. Not just rectangles - I can do circles, ovals, die-cut to your logo shape. Did guitar-shaped stickers for a music shop last month. Cost a bit more but everyone remembers them.
 
-- Small labels (25mm+)
-- Medium stickers
-- Large format
-- Custom die-cut shapes
-- Roll labels for dispensers
+### Materials That Work
 
-### Material Options:
+Paper labels are cheap and work fine indoors - perfect for price labels or temporary stuff. Vinyl stickers are fully waterproof, won't fade, last for years on van windows. Clear labels look brilliant on glass or bottles - just your design, no white background. Metallic finishes for that premium look. Removable adhesive for window stickers you want to change regularly. Or permanent adhesive that's not coming off without a fight.
 
-- **Paper** - Cost-effective for indoor use
-- **Vinyl** - Durable and waterproof
-- **Clear** - Transparent labels
-- **Metallic** - Premium finish
-- **Removable** - Easy peel, no residue
-- **Permanent** - Strong adhesive
+### Recent Jobs
 
-### Features:
+Just finished 10,000 bottle labels for a craft gin distillery - matt finish, looks really premium. Did window stickers for a barber shop - massive, you can't miss them. Also sorted 2,000 branded laptop stickers for a tech company to give away at conferences - they're everywhere now, brilliant marketing that.
 
-- Full-color printing
-- Custom shapes available
-- UV-resistant inks
-- Weatherproof options
-- Gloss or matt finish
-- Numbered or sequential printing
+### Why Stickers Still Work
 
-### Perfect For:
+People love stickers. Sounds daft but it's true. Give someone a quality sticker with your [logo](/products/logo-brand-design) and they'll stick it somewhere. That's your brand seen every day for the price of a few pence. Better than [business cards](/products/business-cards) that sit in drawers. One cafe gives out stickers with every coffee - now their logo's on half the laptops in Thornbury.
 
-- Product labeling
-- Packaging
-- Brand promotion
-- Event merchandise
-- Giveaways
-- Bottle labels
-- Jar labels
-- Box labels
-- Warning labels
-- Information labels
+### Working With Food and Products
 
-### Popular Uses:
+If you're labeling food products, I know the regulations - allergen info, best before dates, all that. Same with cosmetics, candles, whatever you're selling. I'll make sure your labels look good AND keep you legal. Already doing labels that match your [flyers](/products/flyers-leaflets) and other marketing? I'll match everything perfectly.
 
-- **Businesses** - Product and packaging labels
-- **Events** - Promotional stickers and merchandise
-- **Retail** - Price labels and product information
-- **Food & Beverage** - Bottle, jar, and packaging labels
-- **Branding** - Logo stickers for brand awareness
+### Get a Price
 
-### What's Included:
+Use the enquiry form on this page - tell me what you need, how many, what they're for. Every job's different so prices vary, but I'll match any quote you've got.
 
-- Professional design service
-- High-quality printing
-- Various material options
-- Custom shapes and sizes
-- Fast turnaround
-- Delivery included
-
-**Contact us for a quote:**
-
+**Contact:**
 - Phone: 01454 837337
-- Mobile: 07727349349
+- Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
-- **We offer price matching!**
+
+*From 100 labels to 100,000 - no job too small or too big.*

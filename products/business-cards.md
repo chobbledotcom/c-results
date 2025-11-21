@@ -34,26 +34,33 @@ meta_description: Professional business cards from £22 for 250 cards.
   cheaper than Vistaprint.
 meta_title: Business Cards | C-Results Print Services
 ---
-## Professional Business Cards - Make a Lasting Impression
+## Business Cards That Don't Look Cheap
 
-Create a professional first impression with our high-quality business cards. Bespoke quality, cheaper than Vistaprint!
+Carl here from Thornbury. Still the best way to share your details quickly. I print high-quality business cards - thick card, sharp printing, not the flimsy rubbish you get from template websites.
 
-### Pricing:
-- 250 cards = £44
-- 500 cards = £63
-- 1,000 cards = £72
-- 2,000 cards = £95
+### Straight-Up Pricing
 
-### What's Included:
-- Double-sided printing
-- Professional design service
-- High-quality card stock
-- Delivery to your door
-- Design consultation
+250 cards for £44, 500 for £63, 1,000 for £72, or 2,000 for £95. That's double-sided, full colour, on quality 400gsm card. Cheaper than Vistaprint but miles better quality.
 
-We've designed and printed business cards for businesses across the UK, including bouncy castle companies, tradespeople, and professional services.
+### Recent Cards I've Done
 
-**Contact us today:**
+Just finished cards for a plumber in Yate - matt finish with spot UV on his logo, looks really professional. Did 1,000 for a beauty therapist with appointment cards on the back - clever that. Also sorted cards for a scaffolding firm with QR codes linking to their reviews - they're getting loads more calls.
+
+The best business cards I've done recently? Cards for a dog groomer shaped like a bone. Cost a bit more but everyone keeps them. That's the trick - make cards people won't bin.
+
+### What Makes Good Cards
+
+Quality card stock makes all the difference - people judge your business in the half-second they're holding your card. I use 400gsm as standard (that's thick), but can go thicker if you want. Matt, gloss, soft-touch finishes - whatever suits your business.
+
+Design matters too. If you've already got a [logo](/products/logo-brand-design) I'll match your brand perfectly. Need a logo first? I'll sort that too. Been designing cards long enough to know what works - clear contact details, not too cluttered, and a design that matches what you do.
+
+### Buy Online or Get in Touch
+
+Order directly online with the options above for standard quantities, or use the enquiry form if you want something special - different quantities, special finishes, unusual shapes.
+
+**Contact:**
 - Phone: 01454 837337
-- Mobile: 07727349349
+- Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
+
+*Free business cards with any order over £125 - just ask.*

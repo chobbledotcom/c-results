@@ -8,4 +8,8 @@ meta_title: Digital Marketing | C-Results
 meta_description: Social media management, website builds with hosting, and SEO services to help your business thrive online.
 ---
 
-Boost your online presence with our comprehensive digital marketing services. We help businesses grow through social media management, professional website development, and strategic online marketing.
+If you're not online properly these days, you might as well not exist. Carl handles everything from building websites to managing social media accounts, and the results speak for themselves. Several customers have told us their businesses "sky rocketed" after we sorted their digital marketing - one roofer got more work than they could handle just from the QR code flyers we designed and distributed.
+
+We're not talking about generic Facebook posts or template websites that look like everyone else's. Carl manages social media for local businesses, builds websites that actually work (and hosts them too), and makes sure people can find you when they're searching online. We've recently built sites for a Cardiff bouncy castle hire company, managed social campaigns for combat sports gyms, and helped tradespeople get their first real web presence.
+
+The difference with us? You're dealing with Carl directly. When you need something changed on your website or want to try a different approach with your social media, you're talking to the person who'll actually do it. Carl handles everything himself, which means changes happen quickly and efficiently. You can use the enquiry form on this page or order our digital marketing services online.

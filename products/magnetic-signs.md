@@ -28,41 +28,35 @@ meta_description: A2 and A3 magnetic signs for vehicles and displays. Flash
 meta_title: Magnetic Signs | C-Results
 ---
 
-## A2 Magnetic Signs - Flash Deal!
+## Magnetic Signs - Turn Your Van Into an Advert
 
-Transform your vehicle into a mobile advertisement with our double-bubble magnetic signs. Easy to apply, remove, and reposition without damaging your vehicle's paintwork.
+Carl here. Want to advertise on your van but don't want permanent graphics? Or maybe it's a lease vehicle you can't modify? Magnetic signs are the answer. Stick them on when you're working, take them off when you're not.
 
-### Pricing:
+### Current Deals
 
-- A3 Magnetic Sign = £37 each
-- A2 Magnetic Sign = £54 each
-- **Deals on orders of 4+**
+A3 signs are £37 each, A2 signs are £54 each. But here's where it gets good - buy 2 get 2 free, or get 8 for the price of 4. One plumber ordered 8 and puts them on his whole crew's vans. Smart move.
 
-### Special Offers:
+### Why These Work So Well
 
-- **Buy 2 Get 2 Free**
-- **8 for the price of 4!**
+Your van's parked outside jobs for hours - that's free advertising to the whole street. Stuck in traffic? More people seeing your number. Just driving about? Mobile billboard. One roofer told me he gets at least one call a week from his magnetics - that's paid for them hundreds of times over.
 
-### Features:
+They're really strong too. Not like the thin ones that blow off on the motorway. These stay put but come off clean when you want them off. Perfect for lease vehicles or if you use your van at weekends and don't want to advertise then.
 
-- Strong magnetic backing
-- Weather-resistant
-- Professional printing
-- Vibrant colours
-- Easy to clean
-- Reusable
+### Recent Orders
 
-### Perfect For:
+Just did magnetics for a dog walker - she sticks them on when doing pick-ups, instant credibility. Did A2 ones for a locksmith with "24 HOUR EMERGENCY" in massive letters - he's getting way more call-outs. Also sorted some for a cleaning company who puts them on different cars depending on who's working.
 
-- Vehicle branding
-- Temporary promotions
-- Trade shows
-- Pop-up events
-- Delivery vehicles
-- Service vehicles
+### Work With Your Other Marketing
 
-**Contact us today:**
+Match them to your [business cards](/products/business-cards) and [flyers](/products/flyers-leaflets) for consistent branding. Add a QR code linking to your [website](/products/website-build-hosting) or reviews. One decorator has his Instagram handle on his - gets followers everywhere he parks.
 
+### Order Online
+
+You can buy these directly online using the options above - the deals apply automatically when you order multiple signs. Or use the enquiry form if you need custom sizes.
+
+**Contact:**
 - Phone: 01454 837337
-- Mobile: 07727349349
+- Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
+
+*Flash deal running now - don't miss out on buy 2 get 2 free.*

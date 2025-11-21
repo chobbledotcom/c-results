@@ -21,50 +21,37 @@ meta_description: Professional logo design, graphic design, and brand
 meta_title: Logo & Brand Design | C-Results
 ---
 
-## Logo & Brand Design - Build Your Business Brand
+## Logos & Design - Start Here
 
-We help you stand out with professional logo design and comprehensive brand identity development. Where creative ideas evolve into design and meet quality print.
+Carl here. Before you order [business cards](/products/business-cards), [flyers](/products/flyers-leaflets), or anything else, you need a professional logo. Not something knocked up in Word, not clip art from Google - a real logo you can use everywhere from a tiny social media icon to the side of a van.
 
-### Services Include:
+### What I Actually Do
 
-- **Graphic & Logo Design** - Custom designs that represent your business
-- **Brand Copywriting** - Compelling messaging that resonates with your audience
-- **Brand Identity** - Complete visual identity systems
-- **Design Consultation** - Expert guidance on your branding strategy
+I sit down (well, at my computer), work out what your business is about, who your customers are, and what message you want to send. Then I design options - usually three different directions to start with. You pick what you like, we refine it, and keep going until you're happy. No limit on revisions - we get it right.
 
-### Our Approach:
+### Recent Logos That Worked
 
-We create designs that not only look great but also effectively communicate your brand message. Every design is custom-created to reflect your unique business personality.
+Just designed a logo for a new electrical contractor - clean, professional, looks good in one colour for embroidered workwear. Did a complete rebrand for a dog grooming business - playful but not childish, looks brilliant on their [van magnetics](/products/magnetic-signs). Also sorted brand identity for a bathroom fitter - classic, trustworthy look you can use on everything from quotes to van graphics.
 
-### What You'll Receive:
+### What You Get
 
-- Original, custom logo design
-- Multiple concept options
-- Unlimited revisions until you're satisfied
-- Print-ready files in multiple formats
-- Vector files for scalability
-- Brand guidelines document
+The logo files in every format you'll ever need. PNG for web and social media. Vector files for scaling up massive without going fuzzy. PDF for printers. Plus a simple guide showing your colours, fonts, and how to use the logo properly. Everything you need to stay consistent across all your marketing.
 
-### Perfect For:
+### Why This Matters
 
-- New businesses and start-ups
-- Rebranding established businesses
-- Product launches
-- Marketing campaigns
-- Complete brand overhauls
+Your logo is on everything - [business cards](/products/business-cards), [website](/products/website-build-hosting), social media, invoices, vans, workwear. Get it wrong and you're stuck with it. Get it right and it works hard for years. One client told me their new logo was the best £200 they ever spent - completely changed how customers saw their business.
 
-### Why Choose C-Results?
+### Beyond Just Logos
 
-- **Brand Awareness** - We help you stand out
-- **Professional Quality** - All designs created in-house
-- **Quick Turnaround** - Fast, efficient service
-- **Affordable Pricing** - Quality design at competitive rates
+Need help with the words too? I write copy that actually sounds like you, not corporate waffle. Taglines, website text, [brochure](/products/brochures) content - words that connect with your customers and get them calling.
 
-All designs in our portfolio are designed by us and posted by us, ensuring consistent quality and professional results.
+### Get Started
 
-**Contact us today for a quote:**
+Use the enquiry form on this page to tell me about your business, or ring to discuss what you need.
 
+**Contact:**
 - Phone: 01454 837337
-- Mobile: 07727349349
+- Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
-- Website: www.thornburyconnect.co.uk
+
+*Prices vary depending on what you need - a simple logo costs less than a complete brand overhaul. Let's talk.*

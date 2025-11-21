@@ -12,9 +12,9 @@ layout: home.html
 permalink: /
 ---
 
-## Your complete print & marketing partner
+## Print, design and marketing - all sorted by Carl
 
-We're C-Results, based in Thornbury, and we handle print, design, and digital marketing for businesses across the UK. Whether you need 250 business cards or 10,000 flyers, we can help with design, printing, and delivery. Our prices beat Vistaprint and other online printers, but you get bespoke quality rather than templates.
+We're C-Results, based in Thornbury. Carl handles everything from business cards to websites for companies across the UK. Need 250 business cards? Carl will design and print them. Need 10,000 flyers? He'll sort those too. The prices beat Vistaprint but you're getting bespoke design, not some template.
 
 ![Build your business with us](/images/business-building.jpg)
 

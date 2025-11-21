@@ -34,34 +34,31 @@ meta_description: Professional brochure printing from 250 to 2,000 copies.
 meta_title: Brochures | C-Results Print Services
 ---
 
-## Professional Brochures - Design, Print & Delivery
+## Brochures That Actually Get Read
 
-Showcase your products and services with professionally designed brochures. Perfect for trade shows, presentations, and marketing campaigns.
+Carl here. Need to show off your products or services properly? A good brochure does the job better than a pile of [flyers](/products/flyers-leaflets). I design them, print them, and deliver them - all at prices that beat the online giants.
 
-### Pricing:
+### Current Pricing
 
-- 250 brochures = £92
-- 500 brochures = £125
-- 1,000 brochures = £169
-- 2,000 brochures = £195
+250 brochures cost £92, 500 are £125, 1,000 for £169, and 2,000 for just £195. That includes design, printing on decent paper (not the thin stuff), and delivery to your door.
 
-### What's Included:
+### What Works Well
 
-Every brochure package includes professional design, high-quality printing on premium paper stock, and delivery. We can create multi-page brochures in various formats to suit your needs.
+Just did 500 brochures for a kitchen fitter - tri-fold design showing different styles and finishes. He takes them on quotes and says they help close more sales. Also sorted 1,000 for a holiday let company in the Cotswolds - full of gorgeous photos, they look really premium.
 
-### Perfect For:
+Multi-page brochures work brilliantly for showing your full range. Unlike cramming everything on a [flyer](/products/flyers-leaflets), you've got space to properly explain things. And they feel more substantial than [business cards](/products/business-cards) - people actually keep them.
 
-- Product catalogues
-- Service overviews
-- Company presentations
-- Trade show materials
-- Sales materials
-- Event programmes
+### Why Brochures Still Work
 
-All designs in our portfolio are designed by us and posted by us, ensuring consistent quality and professional results.
+Yes, everyone's got a [website](/products/website-build-hosting), but handing someone a quality brochure at a meeting makes an impression. Leave them in waiting rooms, include them with quotes, hand them out at trade shows. One bathroom showroom customer orders 500 every quarter - says customers love taking them home to plan.
 
-**Contact us today:**
+### Order Online or Get in Touch
 
+You can order directly online using the options above, or use the enquiry form if you need help with design or want different quantities.
+
+**Contact:**
 - Phone: 01454 837337
-- Mobile: 07727349349
+- Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
+
+*All designed and printed by me here in Thornbury - no outsourcing, no delays.*
