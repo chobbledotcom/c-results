@@ -7,7 +7,6 @@ name: Right column
 
 - **Phone:** [01454 837337](tel:01454837337)
 - **Mobile:** [07727349349](tel:07727349349)
-- **Email:** [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com)
 - **Contact us:** [click here](/contact/)
 
 ---
