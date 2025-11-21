@@ -13,13 +13,13 @@ layout: base
 
 {%- assign menus = collections.menu | sort: 'data.order' -%}
 {%- if homepage.show_menus and menus.size > 0 -%}
-  <hr />
+  <hr>
   {%- render_snippet "homepage-menus-header", "<h3>Our Menus</h3>" -%}
   {% include "menus-list.html" %}
 {%- endif -%}
 
 {%- if homepage.show_news and collections.news.size > 0 -%}
-  <hr />
+  <hr>
   {%- render_snippet "homepage-news-header", "<h3>Latest Posts</h3>" -%}
 
   {%- comment -%} Check if all news posts have images {%- endcomment -%}
