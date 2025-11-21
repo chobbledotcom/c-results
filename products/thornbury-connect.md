@@ -64,13 +64,13 @@ But here's what makes this different from other advertising. It's one-off paymen
 
 ### Why This Works
 
-People trust Thornbury Connect. We're a local magazine with useful stuff in it - local events, puzzle pages, kids' activities - rather than junk mail that goes straight in the bin. Your advert sits alongside content people actually want to read. One plumber told me he gets more calls from his Thornbury Connect ad than his [website](/products/website-build-hosting) and [flyers](/products/flyers-leaflets) combined.
+People trust Thornbury Connect. We're a local magazine with useful stuff in it - local events, puzzle pages, kids' activities - rather than junk mail that goes straight in the bin. Your advert sits alongside content people want to read. One plumber told me he gets more calls from his Thornbury Connect ad than his [website](/products/website-build-hosting) and [flyers](/products/flyers-leaflets) combined.
 
 The limited spots per industry means you're not fighting for attention with five other plumbers on the same page. You're the plumber in that issue. That exclusivity is gold.
 
 ### Who's Already In
 
-I've got roofers, decorators, dog walkers, cleaners, gardeners - genuine local businesses that locals want to use. Not big chains, not franchises - real people running real businesses in Thornbury. The sort of businesses that turn up when they say they will and do the job right.
+I've got roofers, decorators, dog walkers, cleaners, gardeners - genuine local businesses that locals want to use. Real people running real businesses in Thornbury. The sort of businesses that turn up when they say they will and do the job right.
 
 ### Recent Success
 

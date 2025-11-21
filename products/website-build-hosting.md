@@ -21,11 +21,11 @@ gallery:
 
 ## Websites That Actually Get Found
 
-A website is only useful if people can find it. I build sites that look professional, work on phones, and actually show up on Google when people search for what you do.
+A website is only useful if people can find it. I build sites that look professional, work on phones, and show up on Google when people search for what you do.
 
 ### What You're Getting
 
-A custom website, not a template with your name stuck on it. I build it from scratch to do exactly what your business needs. Booking systems for appointments, galleries to show your work, online shops - I can build it all. Plus it'll work perfectly on phones - that's where most people look at websites now.
+A custom website built from scratch. I build it from scratch to do exactly what your business needs. Booking systems for appointments, galleries to show your work, online shops - I can build it all. Plus it'll work perfectly on phones - that's where most people look at websites now.
 
 The hosting's included so you don't need to faff about with technical stuff. SSL certificate so browsers don't scare customers away with security warnings. Regular backups in case anything goes wrong. And I handle updates and maintenance so it keeps working.
 
@@ -33,11 +33,11 @@ The hosting's included so you don't need to faff about with technical stuff. SSL
 
 A website is pointless if nobody sees it. I set up your site so Google understands what you do and where you are. Local businesses show up when people search for your service in your area. Just sorted a website for a plumber in Yate - he's now on page one for "plumber Yate" and getting calls from it.
 
-Not just technical SEO either. I write content that actually helps your customers while telling Google what you're about. Add your [business cards](/products/business-cards) and [flyers](/products/flyers-leaflets) with QR codes pointing to your site, suddenly everything's working together.
+Not just technical SEO either. I write content that helps your customers while telling Google what you're about. Add your [business cards](/products/business-cards) and [flyers](/products/flyers-leaflets) with QR codes pointing to your site, suddenly everything's working together.
 
 ### Recent Sites
 
-Just launched a site for a dog grooming business - online booking system, gallery of their work, links perfectly with their [social media](/products/social-media-management). Built one for a scaffolding company with a quote request form - they're getting three enquiries a week from it. Also did a portfolio site for a decorator - before and after photos that actually sell the work.
+Just launched a site for a dog grooming business - online booking system, gallery of their work, links perfectly with their [social media](/products/social-media-management). Built one for a scaffolding company with a quote request form - they're getting three enquiries a week from it. Also did a portfolio site for a decorator - before and after photos that sell the work.
 
 ### Professional vs DIY
 

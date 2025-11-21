@@ -23,7 +23,7 @@ meta_title: Logo & Brand Design | C-Results
 
 ## Logos & Design - Start Here
 
-Before you order [business cards](/products/business-cards), [flyers](/products/flyers-leaflets), or anything else, you need a professional logo. Not something knocked up in Word, not clip art from Google - a real logo you can use everywhere from a tiny social media icon to the side of a van.
+Before you order [business cards](/products/business-cards), [flyers](/products/flyers-leaflets), or anything else, you need a professional logo. A real logo you can use everywhere from a tiny social media icon to the side of a van.
 
 ### What I Actually Do
 
@@ -43,7 +43,7 @@ Your logo is on everything - [business cards](/products/business-cards), [websit
 
 ### Beyond Just Logos
 
-I also write copy that actually sounds like you, not corporate waffle. Taglines, website text, [brochure](/products/brochures) content - words that connect with your customers and get them calling.
+I also write copy that sounds like you. Taglines, website text, [brochure](/products/brochures) content - words that connect with your customers and get them calling.
 
 ### Get Started
 

@@ -14,7 +14,7 @@ permalink: /
 
 ## Print, design and marketing - all sorted by me
 
-We're C-Results, based in Thornbury. I handle everything from business cards to websites for companies across the UK. Whether you need 250 business cards or 10,000 flyers, I'll design and print them. The prices beat Vistaprint but you're getting bespoke design, not some template.
+We're C-Results, based in Thornbury. I handle everything from business cards to websites for companies across the UK. Whether you need 250 business cards or 10,000 flyers, I'll design and print them. The prices beat Vistaprint and you're getting bespoke design.
 
 ![Build your business with us](/images/business-building.jpg)
 

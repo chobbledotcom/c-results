@@ -25,11 +25,11 @@ Right, if you're fed up with social media but know you need to be on it, I'll so
 
 ### What I Actually Do
 
-I run your Facebook, Instagram, TikTok, LinkedIn - whatever platforms your customers use. Create posts that people actually want to see, not boring corporate stuff. Respond to comments and messages so you don't look like you're ignoring people. Track what's working and do more of it.
+I run your Facebook, Instagram, TikTok, LinkedIn - whatever platforms your customers use. Create posts that people want to see. Respond to comments and messages so you don't look like you're ignoring people. Track what's working and do more of it.
 
 ### Real Results I've Got
 
-Took over social media for a local gym - doubled their Instagram followers in three months and their January sign-ups were up 40%. Managing Facebook for a cafe in Thornbury - their posts about daily specials now get real engagement and they're selling out of stuff they post about. Also running LinkedIn for a business consultant - he's getting actual enquiries, not just likes.
+Took over social media for a local gym - doubled their Instagram followers in three months and their January sign-ups were up 40%. Managing Facebook for a cafe in Thornbury - their posts about daily specials now get real engagement and they're selling out of stuff they post about. Also running LinkedIn for a business consultant - he's getting proper enquiries now.
 
 ### Why Bother With Social Media
 
@@ -43,7 +43,7 @@ We have a chat about your business, your customers, and what you want to achieve
 
 ### Not Just Pretty Pictures
 
-Anyone can post photos. I write captions that get people engaging, use hashtags that actually work, and time posts when your customers are scrolling. Plus I make sure your [branding](/products/logo-brand-design) is consistent across everything.
+Anyone can post photos. I write captions that get people engaging, use hashtags that work, and time posts when your customers are scrolling. Plus I make sure your [branding](/products/logo-brand-design) is consistent across everything.
 
 ### Get Started
 

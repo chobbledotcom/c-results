@@ -46,7 +46,7 @@ Need to show off your products or services properly? A good brochure does the jo
 
 Just did 500 brochures for a kitchen fitter - tri-fold design showing different styles and finishes. He takes them on quotes and says they help close more sales. Also sorted 1,000 for a holiday let company in the Cotswolds - full of gorgeous photos, they look really premium.
 
-Multi-page brochures work brilliantly for showing your full range. Unlike cramming everything on a [flyer](/products/flyers-leaflets), you've got space to properly explain things. And they feel more substantial than [business cards](/products/business-cards) - people actually keep them.
+Multi-page brochures work brilliantly for showing your full range. Unlike cramming everything on a [flyer](/products/flyers-leaflets), you've got space to properly explain things. And they feel more substantial than [business cards](/products/business-cards) - people keep them.
 
 ### Why Brochures Still Work
 

@@ -28,7 +28,7 @@ When you need to get detailed information across, booklets come in handy. I prin
 
 ### How I Bind Them
 
-Saddle stitching is your standard booklet binding - two staples down the middle, perfect for most booklets up to 40 pages. For something that looks more like a real book, perfect binding gives you that square spine, looks the business for thick catalogues. Wire binding with spiral coils means they lay flat - brilliant for training manuals people actually use while working. And if you need something extra durable that'll get hammered daily, loop stitching keeps everything secure.
+Saddle stitching is your standard booklet binding - two staples down the middle, perfect for most booklets up to 40 pages. For something that looks more like a real book, perfect binding gives you that square spine, looks the business for thick catalogues. Wire binding with spiral coils means they lay flat - brilliant for training manuals people use while working. And if you need something extra durable that'll get hammered daily, loop stitching keeps everything secure.
 
 ### What I've Done Recently
 

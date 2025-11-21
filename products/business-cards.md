@@ -36,7 +36,7 @@ meta_title: Business Cards | C-Results Print Services
 ---
 ## Business Cards That Don't Look Cheap
 
-Still the best way to share your details quickly from our base in Thornbury. I print high-quality business cards - thick card, sharp printing, not the flimsy rubbish you get from template websites.
+Still the best way to share your details quickly from our base in Thornbury. I print high-quality business cards - thick card, sharp printing.
 
 ### Straight-Up Pricing
 
@@ -52,7 +52,7 @@ The best business cards I've done recently were for a dog groomer shaped like a 
 
 Quality card stock makes all the difference - people judge your business in the half-second they're holding your card. I use 400gsm as standard (that's thick), but can go thicker if you want. Matt, gloss, soft-touch finishes - whatever suits your business.
 
-Design matters too. If you've already got a [logo](/products/logo-brand-design) I'll match your brand perfectly. If you need a logo first, I'll sort that too. Been designing cards long enough to know what works - clear contact details, not too cluttered, and a design that matches what you do.
+Design matters too. If you've already got a [logo](/products/logo-brand-design) I'll match your brand perfectly. If you need a logo first, I'll sort that too. Been designing cards long enough to know what works - clear contact details and a design that matches what you do.
 
 ### Buy Online or Get in Touch
 

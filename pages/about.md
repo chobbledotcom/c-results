@@ -20,7 +20,7 @@ I'm Carl, and I run C-Results from Thornbury. When you work with us, you're deal
 
 I've been helping businesses with their marketing for years now, and I've built up a good network of suppliers and contacts to get things done properly. From a simple logo design to a complete website, or managing your social media to printing thousands of leaflets, I can handle it all from my base here in Thornbury. You don't need to coordinate between different suppliers - just give me a ring and I'll sort everything out.
 
-## Print services that actually work
+## Print services that work
 
 I'll print 2,000 flyers for £94 including design and delivery. Business cards start from £44 for 250, though we're running a special offer at £22 right now. I also do brochures, booklets, magnetic signs (A3 for £37, A2 for £54), banners, posters, stickers, labels and branded merchandise. Everything's printed to order and I handle the design work myself, so you're not getting some generic template - it's all bespoke to your business.
 
@@ -38,7 +38,7 @@ When you contact me, we'll have a real conversation about what you need. I'm fle
 
 ## Fair prices, guaranteed
 
-I'm not trying to be the biggest print company in the country - I just want to do good work at fair prices. If you find it cheaper elsewhere, I'll match the price. My prices already beat Vistaprint but you're getting bespoke quality, not some online template. Plus, when you order online through our website or use the enquiry form, everything's straightforward and transparent.
+I'm not trying to be the biggest print company in the country - I just want to do good work at fair prices. If you find it cheaper elsewhere, I'll match the price. My prices already beat Vistaprint and you're getting bespoke quality. Plus, when you order online through our website or use the enquiry form, everything's straightforward and transparent.
 
 ## Recent work
 

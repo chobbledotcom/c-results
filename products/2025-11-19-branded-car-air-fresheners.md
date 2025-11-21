@@ -21,7 +21,7 @@ gallery:
 
 ## Get Your Brand Noticed in Every Car Park
 
-I print custom car air fresheners from our Thornbury base that actually work as brilliant marketing tools. Think about it - your logo hanging from rear-view mirrors across town, getting seen every single day. 
+I print custom car air fresheners from our Thornbury base that work as brilliant marketing tools. Think about it - your logo hanging from rear-view mirrors across town, getting seen every single day. 
 
 ### What You're Getting
 

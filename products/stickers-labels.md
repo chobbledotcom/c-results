@@ -27,7 +27,7 @@ I print labels for products, stickers for promotions, or anything sticky with yo
 
 ### What I Print
 
-Anything sticky really. Product labels for jars, bottles, boxes - just did 5,000 for a local honey producer, waterproof vinyl so they don't peel off in shops. Promotional stickers that people actually want to stick places - laptop stickers are massive right now. Security labels that show if someone's tampered with packaging. Even boring stuff like barcode labels and sequential numbering for stock control.
+Anything sticky really. Product labels for jars, bottles, boxes - just did 5,000 for a local honey producer, waterproof vinyl so they don't peel off in shops. Promotional stickers that people want to stick places - laptop stickers are massive right now. Security labels that show if someone's tampered with packaging. Even boring stuff like barcode labels and sequential numbering for stock control.
 
 Custom shapes too. Not just rectangles - I can do circles, ovals, die-cut to your logo shape. Did guitar-shaped stickers for a music shop last month. Cost a bit more but everyone remembers them.
 

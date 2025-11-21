@@ -71,4 +71,4 @@ Buy online using the options above for standard quantities, or fill in the enqui
 - Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
 
-*Fast turnaround, delivered to your door, and yes - I deliver nationwide, not just Thornbury.*
+*Fast turnaround, delivered to your door - I deliver nationwide.*
