@@ -11,25 +11,26 @@ eleventyNavigation:
 layout: home.html
 permalink: /
 ---
+## Print, design and marketing in Thornbury & Nationwide
 
-## Print, design and marketing - all sorted by me
-
-We're C-Results, based in Thornbury. I handle everything from business cards to websites for companies across the UK. Whether you need 250 business cards or 10,000 flyers, I'll design and print them. The prices beat Vistaprint and you're getting bespoke design.
+I'm Carl (C-Results), based in Thornbury. I handle everything from business cards to websites for companies across the UK. Whether you need 250 business cards or 10,000 flyers, I'll design and print them. My prices beat Vistaprint, for bespoke design and great customer service.
 
 ![Build your business with us](/images/business-building.jpg)
 
-## Choose C-Results
-
-We're not trying to be the biggest print company in the country - we just want to do good work at fair prices. Everything we print is bespoke and you can talk directly to our team. We offer price matching too, so if you find it cheaper elsewhere, let us know.
-
 You don't have to be local to Thornbury to work with us. We deliver nationwide, and plenty of our clients are scattered across the UK.
+
+## We do everything
 
 A big advantage of working with us is that we handle everything in one place. Whether it's a website, business cards, or social media management, we can sort it all. There's no need to coordinate between different suppliers. Check out our [customer reviews](/reviews/) to see what other businesses think.
 
-## Recent Projects
+## Recent projects
 
 We've recently printed 10,000 flyers for a family-run scaffolding company, designed and printed materials for a bouncy castle hire business in Cardiff, and done a big flyer run for a local roofing firm (complete with QR codes for tracking). We've also worked with interior painters, fitness instructors, and all sorts of other businesses.
 
-## Get in Touch
+## Get in touch
 
-If you want a quote or just need to ask a question, give us a ring on [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349), email us at [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com), or fill in the form on our [contact page](/contact/).
+If you want a quote or just need to ask a question, just:
+
+- Give us a ring on [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349)
+- Email us at [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com)
+- Or fill in the form on our [contact page](/contact/).
