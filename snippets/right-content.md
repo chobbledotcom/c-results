@@ -1,3 +1,6 @@
+---
+name: Right column
+---
 ![C-Results Logo](/assets/logo.png)
 
 ### Contact C-Results
