@@ -44,7 +44,7 @@ Carl here. Flyers are still the workhorse of local marketing - cheap, effective,
 
 ### Simple Pricing
 
-2,000 flyers for £94, 2,500 for £99, 5,000 for £125, 7,500 for £156, or 10,000 for £184. That's A5 size (half of A4), full colour both sides, including design and delivery. No hidden extras, no nasty surprises.
+2,000 flyers for £94, 2,500 for £99, 5,000 for £125, 7,500 for £156, or 10,000 for £184. That's A5 size (half of A4), full colour both sides, including design and delivery. Everything's included in the price - you won't get any nasty surprises.
 
 ### What's Working Right Now
 

@@ -27,7 +27,7 @@ Carl here. Before you order [business cards](/products/business-cards), [flyers]
 
 ### What I Actually Do
 
-I sit down (well, at my computer), work out what your business is about, who your customers are, and what message you want to send. Then I design options - usually three different directions to start with. You pick what you like, we refine it, and keep going until you're happy. No limit on revisions - we get it right.
+I sit down (well, at my computer), work out what your business is about, who your customers are, and what message you want to send. Then I design options - usually three different directions to start with. You pick what you like, we refine it, and keep going until you're happy with unlimited revisions - we get it right.
 
 ### Recent Logos That Worked
 

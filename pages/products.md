@@ -23,7 +23,7 @@ I've been doing this for years now and have helped all sorts of businesses - sca
 
 ## Browse our services below
 
-Whether you need 250 business cards, 10,000 flyers, a new website, or someone to manage your Facebook page, I can sort it all from one place. No need to coordinate between different suppliers or explain your business to multiple people. Just give me a ring and we'll chat about what you need.
+Whether you need 250 business cards, 10,000 flyers, a new website, or someone to manage your Facebook page, I can sort it all from one place. You won't need to coordinate between different suppliers or explain your business to multiple people. Just give me a ring and we'll chat about what you need.
 
 You can order online through our website or use the enquiry form on each product page. But if you'd rather talk it through first, just pick up the phone - I'm always happy to discuss your requirements without any pressure.
 

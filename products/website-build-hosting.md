@@ -21,7 +21,7 @@ gallery:
 
 ## Websites That Actually Get Found
 
-Carl here. No point having a website if nobody can find it. I build sites that look professional, work on phones, and actually show up on Google when people search for what you do.
+Carl here. A website is only useful if people can find it. I build sites that look professional, work on phones, and actually show up on Google when people search for what you do.
 
 ### What You're Getting
 

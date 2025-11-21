@@ -50,7 +50,7 @@ Unlike [business cards](/products/business-cards) that sit in drawers, branded m
 
 ### What You're Getting
 
-I'll help you pick the right products for your budget, sort the design (making sure it matches your other materials if you're already a customer), handle all the printing or embroidery, and deliver the lot to you. No minimum orders on loads of items - need just 10 t-shirts? No problem.
+I'll help you pick the right products for your budget, sort the design (making sure it matches your other materials if you're already a customer), handle all the printing or embroidery, and deliver the lot to you. We don't have minimum orders on loads of items - need just 10 t-shirts? That's fine.
 
 ### Get Started
 
