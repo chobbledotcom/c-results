@@ -2,7 +2,6 @@
 title: Branded Car Air Fresheners
 categories:
   - categories/print-services.md
-  - categories/bespoke-air-fresheners.md
 options:
   - name: 250x
     max_quantity: 1
@@ -19,4 +18,5 @@ gallery:
   - /images/577714659_1408419497386965_4612199018395453191_n.jpg
   - /images/573294226_1717247242302067_8052494303018605645_n.jpg
 ---
+
 Customised car air fresheners with your logo and QR code
