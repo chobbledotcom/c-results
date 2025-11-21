@@ -4,7 +4,20 @@ header_image: /images/customer-review-flyers.jpg
 categories:
   - categories/print-services.md
   - categories/business-stationery.md
-price: From £22 for 250 cards
+price: From £44 for 250 cards
+options:
+  - name: 250 cards
+    max_quantity: 1
+    unit_price: 44
+  - name: 500 cards
+    max_quantity: 1
+    unit_price: 63
+  - name: 1,000 cards
+    max_quantity: 1
+    unit_price: 72
+  - name: 2,000 cards
+    max_quantity: 1
+    unit_price: 95
 features:
   - Double-sided printing
   - Professional design included
@@ -30,11 +43,6 @@ Create a professional first impression with our high-quality business cards. Bes
 - 500 cards = £63
 - 1,000 cards = £72
 - 2,000 cards = £95
-
-### Special Offer:
-**250 Business Cards for £22** - Includes double-sided printing, professional design, and delivery!
-
-**FREE with any order over £125!**
 
 ### What's Included:
 - Double-sided printing

@@ -4,6 +4,19 @@ header_image: /images/printing-services.jpg
 categories:
   - categories/print-services.md
 price: From £92 for 250 brochures
+options:
+  - name: 250 brochures
+    max_quantity: 1
+    unit_price: 92
+  - name: 500 brochures
+    max_quantity: 1
+    unit_price: 125
+  - name: 1,000 brochures
+    max_quantity: 1
+    unit_price: 169
+  - name: 2,000 brochures
+    max_quantity: 1
+    unit_price: 195
 features:
   - Professional design included
   - Multiple page options

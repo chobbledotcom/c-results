@@ -5,6 +5,13 @@ categories:
   - categories/signage-display.md
   - categories/print-services.md
 price: From £37 for A3
+options:
+  - name: A3 Magnetic Sign
+    max_quantity: 10
+    unit_price: 37
+  - name: A2 Magnetic Sign
+    max_quantity: 10
+    unit_price: 54
 features:
   - Weather-resistant
   - Easy to apply and remove

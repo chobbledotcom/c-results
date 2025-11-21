@@ -4,6 +4,37 @@ header_image: /images/thornbury-connect.jpg
 categories:
   - categories/distribution-advertising.md
 price: From £99 per issue
+options:
+  - name: Half-Page A5 Advert
+    max_quantity: 1
+    unit_price: 99
+  - name: Full-Page A5 Advert
+    max_quantity: 1
+    unit_price: 179
+  - name: Super Premium Loose Flyer
+    max_quantity: 1
+    unit_price: 299
+  - name: Featured Business Listing
+    max_quantity: 1
+    unit_price: 229
+  - name: Back Cover
+    max_quantity: 1
+    unit_price: 299
+  - name: Front Inside Cover
+    max_quantity: 1
+    unit_price: 279
+  - name: Back Inside Cover
+    max_quantity: 1
+    unit_price: 249
+  - name: Front Cover Feature
+    max_quantity: 1
+    unit_price: 349
+  - name: Next to Crossword Page
+    max_quantity: 1
+    unit_price: 259
+  - name: Next to Children's Colouring Page
+    max_quantity: 1
+    unit_price: 259
 features:
   - Reaches 7,500 local homes
   - Limited competition - only 1-2 businesses per industry

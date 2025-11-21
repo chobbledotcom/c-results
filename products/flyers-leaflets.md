@@ -4,6 +4,22 @@ header_image: /images/printing-services.jpg
 categories:
   - categories/print-services.md
 price: From £94 for 2,000
+options:
+  - name: 2,000 flyers
+    max_quantity: 1
+    unit_price: 94
+  - name: 2,500 flyers
+    max_quantity: 1
+    unit_price: 99
+  - name: 5,000 flyers
+    max_quantity: 1
+    unit_price: 125
+  - name: 7,500 flyers
+    max_quantity: 1
+    unit_price: 156
+  - name: 10,000 flyers
+    max_quantity: 1
+    unit_price: 184
 features:
   - Professional design included
   - High-quality printing
