@@ -34,33 +34,14 @@ meta_description: Professional business cards from £22 for 250 cards.
   cheaper than Vistaprint.
 meta_title: Business Cards | C-Results Print Services
 ---
-## Business Cards That Don't Look Cheap
+Still the best way to share your details quickly from our base in Thornbury. I print high-quality business cards - with thick card and crisp printing.
 
-Still the best way to share your details quickly from our base in Thornbury. I print high-quality business cards - thick card, sharp printing.
-
-### Straight-Up Pricing
-
-250 cards for £44, 500 for £63, 1,000 for £72, or 2,000 for £95. That's double-sided, full colour, on quality 400gsm card. Cheaper than Vistaprint but miles better quality.
-
-### Recent Cards I've Done
-
-Just finished cards for a plumber in Yate - matt finish with spot UV on his logo, looks really professional. Did 1,000 for a beauty therapist with appointment cards on the back - clever that. Also sorted cards for a scaffolding firm with QR codes linking to their reviews - they're getting loads more calls.
-
-The best business cards I've done recently were for a dog groomer shaped like a bone. Cost a bit more but everyone keeps them. That's the trick - make cards people won't bin.
-
-### What Makes Good Cards
+### What makes good cards
 
 Quality card stock makes all the difference - people judge your business in the half-second they're holding your card. I use 400gsm as standard (that's thick), but can go thicker if you want. Matt, gloss, soft-touch finishes - whatever suits your business.
 
 Design matters too. If you've already got a [logo](/products/logo-brand-design) I'll match your brand perfectly. If you need a logo first, I'll sort that too. Been designing cards long enough to know what works - clear contact details and a design that matches what you do.
 
-### Buy Online or Get in Touch
+### Buy online or get in touch
 
-Order directly online with the options above for standard quantities, or use the enquiry form if you want something special - different quantities, special finishes, unusual shapes.
-
-**Contact:**
-- Phone: 01454 837337
-- Mobile: 07727 349349
-- Email: cresultsconnect@outlook.com
-
-*Free business cards with any order over £125 - just ask.*
+**Order directly online with the options above for standard quantities, or use the enquiry form if you want something special - different quantities, special finishes, unusual shapes, etc.**
