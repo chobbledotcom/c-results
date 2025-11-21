@@ -50,7 +50,7 @@ While I'm based in Thornbury, South Gloucestershire, I work with businesses acro
 
 ## Let's chat about your business
 
-If you want to grow your business with effective marketing, give me a ring and we'll talk through what you need. No hard sell, no corporate waffle, just practical advice on what'll work for your business. You can order online through our website or fill in the enquiry form if you prefer, but I'm always happy to chat on the phone first.
+If you want to grow your business with effective marketing, give me a ring and we'll talk through what you need - just practical advice on what'll work for your business, without the hard sell or corporate waffle. You can order online through our website or fill in the enquiry form if you prefer, but I'm always happy to chat on the phone first.
 
 **Phone:** 01454 837337
 **Mobile:** 07727 349349
