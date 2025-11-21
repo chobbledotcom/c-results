@@ -120,3 +120,12 @@ main article {
   font-size: small;
   opacity: 0.8;
 }
+
+ul.items {
+  & > * {
+    width: max(15rem, calc((100% - 2rem) / 3));
+  }
+  h3 {
+    line-height: 1.2;
+  }
+}

@@ -2,10 +2,10 @@
 layout: base
 ---
 
-{%- assign categories = collections.categories | getFeaturedCategories -%}
-{%- if homepage.show_products and categories.size > 0 -%}
+{%- assign products = collections.products -%}
+{%- if homepage.show_products and products.size > 0 -%}
   <div id="homepage-products">
-    {%- include "categories-list.html" -%}
+    {%- include "products-list.html" -%}
   </div>
 {%- endif -%}
 
