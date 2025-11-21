@@ -13,7 +13,7 @@ permalink: /contact/
 ---
 ## Give me a ring
 
-The quickest way to reach me is on the phone - [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349) if you're calling from a mobile. I'm usually pretty quick at getting back to people, and I'm happy to chat through your requirements without any hard sell.
+The quickest way to reach me is on the phone - [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349) for mobile. I'm usually pretty quick at getting back to people, and I'm happy to chat through your requirements without any hard sell.
 
 You can also drop me an email at [cresultsconnect@outlook.com](mailto:cresultsconnect@outlook.com) if you prefer, or find us [on Facebook](https://www.facebook.com/profile.php?id=61570734306699) where you can see what other customers think of our work.
 
