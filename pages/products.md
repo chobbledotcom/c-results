@@ -13,7 +13,7 @@ permalink: /products/
 
 ## Everything you need to grow your business
 
-I'm Carl from C-Results in Thornbury, and I handle everything from business cards to websites for companies across the UK. The advantage of working with me is that you're dealing directly with the person who'll do the work - no account managers, no sales teams, just me sorting out your print, design and marketing needs.
+I run C-Results from Thornbury, and I handle everything from business cards to websites for companies across the UK. The advantage of working with me is that you're dealing directly with the person who'll do the work - no account managers, no sales teams, just me sorting out your print, design and marketing needs.
 
 ## What makes us different
 
@@ -27,7 +27,7 @@ Whether you need 250 business cards, 10,000 flyers, a new website, or someone to
 
 You can order online through our website or use the enquiry form on each product page. But if you'd rather talk it through first, just pick up the phone - I'm always happy to discuss your requirements without any pressure.
 
-**Ready to get started? Give Carl a call:**
+**Get started today - give me a call:**
 - Phone: [01454 837337](tel:01454837337)
 - Mobile: [07727 349349](tel:07727349349)
 - Email: [Send a message](/contact/)

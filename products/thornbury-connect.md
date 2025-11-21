@@ -54,11 +54,11 @@ meta_title: Thornbury Connect Magazine Advertising | C-Results
 
 ## Thornbury Connect Magazine - 7,500 Homes, One Advert
 
-Carl here. I run Thornbury Connect magazine - it goes through 7,500 doors in Thornbury and surrounding areas. Here's the clever bit: I only take one or two businesses from each industry. So if you're in, your competitors are out.
+I run Thornbury Connect magazine - it goes through 7,500 doors in Thornbury and surrounding areas. Here's the clever bit: I only take one or two businesses from each industry. So if you're in, your competitors are out.
 
 ### The Deal
 
-Half-page adverts start at £99, full-page at £179. Want to really stand out? Get your loose flyer inserted for £299 - people can't ignore those. Premium spots like the back cover (£299) or next to the crossword (£259) get more eyes. The front cover feature at £349 is brilliant - your business on the actual cover.
+Half-page adverts start at £99, full-page at £179. To really stand out, get your loose flyer inserted for £299 - people can't ignore those. Premium spots like the back cover (£299) or next to the crossword (£259) get more eyes. The front cover feature at £349 is brilliant - your business on the actual cover.
 
 But here's what makes this different from other advertising. It's one-off payment, no contracts, no direct debit nonsense. Try it once, see if it works. Most businesses come back because it does work, but there's no pressure. Plus you get a free online directory listing and I share your business across social media - that's worth the price alone.
 

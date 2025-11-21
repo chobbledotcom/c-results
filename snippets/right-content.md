@@ -17,7 +17,7 @@ Based in Thornbury, South Gloucestershire - serving businesses locally and acros
 
 ### Price Matching
 
-We offer price matching on all our services. Find it cheaper elsewhere? We'll match it!
+We offer price matching on all our services. If you find it cheaper elsewhere, we'll match it!
 
 ---
 

@@ -24,11 +24,11 @@ meta_title: Booklets | C-Results Print Services
 
 ## Booklets - When You Need More Than a Flyer
 
-Carl here. Need to get detailed information across? That's where booklets come in handy. I print everything from 8-page service guides to 100-page product catalogues, all bound properly so they don't fall apart.
+When you need to get detailed information across, booklets come in handy. I print everything from 8-page service guides to 100-page product catalogues, all bound properly so they don't fall apart.
 
 ### How I Bind Them
 
-Saddle stitching is your standard booklet binding - two staples down the middle, perfect for most booklets up to 40 pages. Want something that looks more like a real book? Perfect binding gives you that square spine, looks the business for thick catalogues. Wire binding with spiral coils means they lay flat - brilliant for training manuals people actually use while working. And if you need something extra durable that'll get hammered daily, loop stitching keeps everything secure.
+Saddle stitching is your standard booklet binding - two staples down the middle, perfect for most booklets up to 40 pages. For something that looks more like a real book, perfect binding gives you that square spine, looks the business for thick catalogues. Wire binding with spiral coils means they lay flat - brilliant for training manuals people actually use while working. And if you need something extra durable that'll get hammered daily, loop stitching keeps everything secure.
 
 ### What I've Done Recently
 
@@ -44,7 +44,7 @@ More professional than stapling [flyers](/products/flyers-leaflets) together. Mo
 
 ### What You're Getting
 
-I design the whole thing, sort the printing, bind it properly, and deliver it to you. Need help organising your content? I'll help with that too. Been doing this long enough to know what works and what doesn't.
+I design the whole thing, sort the printing, bind it properly, and deliver it to you. I'll help organise your content too if needed. Been doing this long enough to know what works and what doesn't.
 
 If you're already using my [business cards](/products/business-cards) or other print, I'll make sure your booklet matches your brand perfectly.
 

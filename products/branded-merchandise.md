@@ -24,7 +24,7 @@ meta_title: Branded Merchandise | C-Results
 
 ## Branded Merchandise - Get Your Logo on Everything
 
-Right, Carl here. Want your logo on t-shirts, mugs, pens, or pretty much anything else? I'll sort it. Whether you need workwear for your team or giveaways for a trade show, I've got suppliers for everything.
+Right, I'll get your logo on t-shirts, mugs, pens, or pretty much anything else you need. Whether you need workwear for your team or giveaways for a trade show, I've got suppliers for everything.
 
 ### What I Can Brand
 
@@ -38,7 +38,7 @@ For events and trade shows, I sort everything from badges to wristbands. Just di
 
 ### How It's Done
 
-Screen printing works brilliantly for t-shirts and bags - vibrant colours that last. Embroidery looks more upmarket, perfect for workwear and caps. Digital printing handles full-colour designs with loads of detail. Need it quick? Heat transfer gets it done fast. For metal items like pens or USB drives, engraving looks the business.
+Screen printing works brilliantly for t-shirts and bags - vibrant colours that last. Embroidery looks more upmarket, perfect for workwear and caps. Digital printing handles full-colour designs with loads of detail. For quick turnarounds, heat transfer gets it done fast. For metal items like pens or USB drives, engraving looks the business.
 
 ### Recent Jobs That Worked Well
 
@@ -50,7 +50,7 @@ Unlike [business cards](/products/business-cards) that sit in drawers, branded m
 
 ### What You're Getting
 
-I'll help you pick the right products for your budget, sort the design (making sure it matches your other materials if you're already a customer), handle all the printing or embroidery, and deliver the lot to you. We don't have minimum orders on loads of items - need just 10 t-shirts? That's fine.
+I'll help you pick the right products for your budget, sort the design (making sure it matches your other materials if you're already a customer), handle all the printing or embroidery, and deliver the lot to you. We don't have minimum orders on loads of items - even just 10 t-shirts is fine.
 
 ### Get Started
 

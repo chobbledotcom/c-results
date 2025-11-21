@@ -30,7 +30,7 @@ meta_title: Magnetic Signs | C-Results
 
 ## Magnetic Signs - Turn Your Van Into an Advert
 
-Carl here. Want to advertise on your van but don't want permanent graphics? Or maybe it's a lease vehicle you can't modify? Magnetic signs are the answer. Stick them on when you're working, take them off when you're not.
+If you want to advertise on your van but don't want permanent graphics, or it's a lease vehicle you can't modify, magnetic signs are the answer. Stick them on when you're working, take them off when you're not.
 
 ### Current Deals
 
@@ -38,7 +38,7 @@ A3 signs are £37 each, A2 signs are £54 each. But here's where it gets good - 
 
 ### Why These Work So Well
 
-Your van's parked outside jobs for hours - that's free advertising to the whole street. Stuck in traffic? More people seeing your number. Just driving about? Mobile billboard. One roofer told me he gets at least one call a week from his magnetics - that's paid for them hundreds of times over.
+Your van's parked outside jobs for hours - that's free advertising to the whole street. When you're stuck in traffic, more people see your number. When you're just driving about, it's a mobile billboard. One roofer told me he gets at least one call a week from his magnetics - that's paid for them hundreds of times over.
 
 They're really strong too. Not like the thin ones that blow off on the motorway. These stay put but come off clean when you want them off. Perfect for lease vehicles or if you use your van at weekends and don't want to advertise then.
 

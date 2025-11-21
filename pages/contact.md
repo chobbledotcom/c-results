@@ -12,9 +12,9 @@ layout: contact.html
 permalink: /contact/
 ---
 
-## Give Carl a ring
+## Give me a ring
 
-Want to chat about your printing or marketing needs? I'm Carl and I run C-Results from Thornbury. When you call, you'll be talking directly to me - the person who'll actually do the work. You won't deal with call centres or get passed around different departments, just a straightforward conversation about what you need and how I can help.
+I run C-Results from Thornbury. When you call to discuss your printing or marketing needs, you'll be talking directly to me - the person who'll actually do the work. You won't deal with call centres or get passed around different departments, just a straightforward conversation about what you need and how I can help.
 
 The quickest way to reach me is on the phone - [01454 837337](tel:01454837337) or [07727 349349](tel:07727349349) if you're calling from a mobile. I'm usually pretty quick at getting back to people, and I'm happy to chat through your requirements without any hard sell. Whether you need 250 business cards or 10,000 flyers, I'll give you a straight price and timeline.
 

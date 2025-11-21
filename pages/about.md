@@ -10,9 +10,9 @@ eleventyNavigation:
   order: 2
 permalink: /about/
 ---
-## Meet Carl from C-Results
+## Meet Me - I Run C-Results
 
-![Carl](/images/about-us.jpg)
+![Me](/images/about-us.jpg)
 
 I'm Carl, and I run C-Results from Thornbury. When you work with us, you're dealing directly with me - no call centres, no account managers, just me sorting out your print, design and marketing needs. Whether you need 250 business cards or 10,000 flyers, I'll handle the design, printing and delivery myself at prices that beat Vistaprint.
 
@@ -22,7 +22,7 @@ I've been helping businesses with their marketing for years now, and I've built 
 
 ## Print services that actually work
 
-Need flyers? I'll print 2,000 for £94 including design and delivery. Business cards start from £44 for 250, though we're running a special offer at £22 right now. I also do brochures, booklets, magnetic signs (A3 for £37, A2 for £54), banners, posters, stickers, labels and branded merchandise. Everything's printed to order and I handle the design work myself, so you're not getting some generic template - it's all bespoke to your business.
+I'll print 2,000 flyers for £94 including design and delivery. Business cards start from £44 for 250, though we're running a special offer at £22 right now. I also do brochures, booklets, magnetic signs (A3 for £37, A2 for £54), banners, posters, stickers, labels and branded merchandise. Everything's printed to order and I handle the design work myself, so you're not getting some generic template - it's all bespoke to your business.
 
 ## More than just printing
 

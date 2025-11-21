@@ -23,13 +23,13 @@ meta_title: Banners & Posters | C-Results
 
 ## Banners & Posters - Sorted
 
-Right, let's talk banners and posters. Whether you need a massive vinyl banner for your shopfront or pull-up banners for a trade show, I'll sort it. Carl here in Thornbury, and I handle everything from design to delivery.
+Right, let's talk banners and posters. Whether you need a massive vinyl banner for your shopfront or pull-up banners for a trade show, I'll sort it. I'm based in Thornbury, and I handle everything from design to delivery.
 
 ### What I Print
 
 For banners, I do the lot. Pull-up banners are dead handy for events - they pop up from a base and pack away in seconds. Outdoor vinyl banners that actually last in British weather, not the rubbish that fades after a month. Mesh banners for windy spots where the wind goes through instead of ripping them down. Fabric banners for indoor events that look really professional. And fence banners for building sites that get your message across from a distance.
 
-Posters? Everything from A4 to massive A0 sizes. Cheap paper ones work brilliantly for short-term promotions. Need them to last? I'll laminate them. Want them rigid for window displays? I'll mount them on boards.
+For posters, I do everything from A4 to massive A0 sizes. Cheap paper ones work brilliantly for short-term promotions. If you need them to last, I'll laminate them. For window displays, I'll mount them on rigid boards.
 
 ### Recent Jobs
 
@@ -41,13 +41,13 @@ Unlike [flyers](/products/flyers-leaflets) that disappear quickly, a good banner
 
 ### What You're Getting
 
-I design it, print it, and deliver it. Need eyelets for hanging? Done. Pole pockets? No problem. Not sure what size you need? Ring me and we'll work it out. I've been doing this long enough to know what works.
+I design it, print it, and deliver it. Eyelets for hanging, pole pockets - all sorted. If you're not sure what size you need, ring me and we'll work it out. I've been doing this long enough to know what works.
 
 If you're already getting [business cards](/products/business-cards) or [magnetic signs](/products/magnetic-signs) from me, I'll make sure your banner matches your brand perfectly.
 
 ### Pricing
 
-Every job's different - a small poster costs pennies, a building wrap costs serious money. But here's the thing - I'll match any quote you've got. Just found it cheaper online? Show me and I'll match it, plus you get to deal with me directly, not some call centre.
+Every job's different - a small poster costs pennies, a building wrap costs serious money. But here's the thing - I'll match any quote you've got. If you've found it cheaper online, show me and I'll match it, plus you get to deal with me directly, not some call centre.
 
 ### Get a Quote
 
@@ -58,4 +58,4 @@ Use the enquiry form on this page for a quick quote, or give me a ring to discus
 - Mobile: 07727 349349
 - Email: cresultsconnect@outlook.com
 
-*Quick turnaround, fair prices, and you're dealing with Carl, not a corporation.*
+*Quick turnaround, fair prices, and you're dealing with me, not a corporation.*

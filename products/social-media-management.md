@@ -21,7 +21,7 @@ meta_title: Social Media Management | C-Results
 
 ## Social Media - Let Me Handle It
 
-Right, Carl here. Fed up with social media but know you need to be on it? I'll sort it for you. Post regularly, respond to comments, grow your followers - all the stuff you haven't got time for.
+Right, if you're fed up with social media but know you need to be on it, I'll sort it for you. Post regularly, respond to comments, grow your followers - all the stuff you haven't got time for.
 
 ### What I Actually Do
 

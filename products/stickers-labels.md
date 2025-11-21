@@ -23,7 +23,7 @@ meta_title: Stickers & Labels | C-Results
 
 ## Stickers & Labels - Stick Your Brand Everywhere
 
-Carl here. Need labels for products, stickers for promotions, or anything sticky with your logo on it? I print the lot, from tiny price labels to massive window stickers.
+I print labels for products, stickers for promotions, or anything sticky with your logo on it. From tiny price labels to massive window stickers, I handle the lot.
 
 ### What I Print
 
@@ -45,7 +45,7 @@ People love stickers. Sounds daft but it's true. Give someone a quality sticker 
 
 ### Working With Food and Products
 
-If you're labeling food products, I know the regulations - allergen info, best before dates, all that. Same with cosmetics, candles, whatever you're selling. I'll make sure your labels look good AND keep you legal. Already doing labels that match your [flyers](/products/flyers-leaflets) and other marketing? I'll match everything perfectly.
+If you're labeling food products, I know the regulations - allergen info, best before dates, all that. Same with cosmetics, candles, whatever you're selling. I'll make sure your labels look good AND keep you legal. If you're already using my [flyers](/products/flyers-leaflets) and other marketing, I'll match everything perfectly.
 
 ### Get a Price
 

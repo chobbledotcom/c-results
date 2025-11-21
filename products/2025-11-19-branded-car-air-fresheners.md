@@ -21,7 +21,7 @@ gallery:
 
 ## Get Your Brand Noticed in Every Car Park
 
-Carl here from Thornbury. I print custom car air fresheners that actually work as brilliant marketing tools. Think about it - your logo hanging from rear-view mirrors across town, getting seen every single day. 
+I print custom car air fresheners from our Thornbury base that actually work as brilliant marketing tools. Think about it - your logo hanging from rear-view mirrors across town, getting seen every single day. 
 
 ### What You're Getting
 
@@ -35,9 +35,9 @@ I've done thousands for car valeters, taxi firms, and MOT centres. One garage in
 
 Unlike [flyers](/products/flyers-leaflets) that get binned, these stick around for months. Every time someone gets in their car, there's your brand. Every passenger sees it too. And when they need your service, you're literally right in front of them.
 
-Need them designed? That's included. I'll sort the whole thing - design, print, and delivery straight to you. If you're already spending on marketing, add these to your mix. They're brilliant for including with invoices or handing out at events.
+Design is included in the price. I'll sort the whole thing - design, print, and delivery straight to you. If you're already spending on marketing, add these to your mix. They're brilliant for including with invoices or handing out at events.
 
-### Ready to order?
+### Order Today
 
 You can buy these directly online using the options above, or if you need a custom quantity or have questions, use the enquiry form on this page.
 

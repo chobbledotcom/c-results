@@ -36,7 +36,7 @@ meta_title: Brochures | C-Results Print Services
 
 ## Brochures That Actually Get Read
 
-Carl here. Need to show off your products or services properly? A good brochure does the job better than a pile of [flyers](/products/flyers-leaflets). I design them, print them, and deliver them - all at prices that beat the online giants.
+Need to show off your products or services properly? A good brochure does the job better than a pile of [flyers](/products/flyers-leaflets). I design them, print them, and deliver them - all at prices that beat the online giants.
 
 ### Current Pricing
 

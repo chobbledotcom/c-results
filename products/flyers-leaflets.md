@@ -40,7 +40,7 @@ meta_title: Flyers & Leaflets | C-Results Print Services
 
 ## Flyers That Actually Work
 
-Carl here. Flyers are still the workhorse of local marketing - cheap, effective, and they get results. I've just printed 10,000 for a scaffolding firm who said they got more work from one leaflet drop than six months of Facebook ads.
+Flyers are still the workhorse of local marketing - cheap, effective, and they get results. I've just printed 10,000 for a scaffolding firm who said they got more work from one leaflet drop than six months of Facebook ads.
 
 ### Simple Pricing
 
@@ -50,7 +50,7 @@ Carl here. Flyers are still the workhorse of local marketing - cheap, effective,
 
 QR codes are game-changers. Just did 10,000 flyers for a roofing company with QR codes linking to their reviews page. Customer scans it, sees 50 five-star reviews, job done. Also finished flyers for a Cardiff bouncy castle company - bright, bold design with prices right on the front. He's booked solid.
 
-The secret? Make it obvious what you do and how to contact you. Sounds simple but you'd be amazed how many flyers forget the basics. I'll make sure yours doesn't.
+The secret is making it obvious what you do and how to contact you. Sounds simple but you'd be amazed how many flyers forget the basics. I'll make sure yours doesn't.
 
 ### Better Than Digital Ads
 
