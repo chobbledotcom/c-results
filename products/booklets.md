@@ -1,6 +1,5 @@
 ---
 title: Booklets
-header_image: /images/printing-services.jpg
 categories:
   - categories/print-services.md
 price: Contact for quote
@@ -20,6 +19,7 @@ meta_description: Professional booklet printing for manuals, catalogues,
   programs, and marketing materials. High-quality multi-page documents with
   professional binding.
 meta_title: Booklets | C-Results Print Services
+thumbnail: /images/printing-services.jpg
 ---
 When you need to get detailed information across, booklets are the one. I print everything from 8-page service guides to 100-page product catalogues, all bound properly so they don't fall apart.
 
