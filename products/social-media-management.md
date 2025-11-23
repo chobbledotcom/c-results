@@ -1,6 +1,5 @@
 ---
 title: Social Media Management
-header_image: /images/web-development.jpg
 categories:
   - categories/digital-marketing.md
 price: Contact for quote
@@ -17,6 +16,7 @@ header_text: Social Media Management
 meta_description: Professional social media management services. Grow your
   business with strategic content, engagement, and proven marketing strategies.
 meta_title: Social Media Management | C-Results
+thumbnail: /images/web-development.jpg
 ---
 If you're fed up with social media but know you need to be on it, I'll sort it for you. I'll post regularly, respond to comments, grow your followers, and generally do all the stuff you haven't got time for.
 
