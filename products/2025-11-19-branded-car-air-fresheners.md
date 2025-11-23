@@ -44,3 +44,5 @@ Design is included in the price. I'll sort the whole thing - design, print, and 
 ### Order online
 
 **You can buy these directly online using the options above, or if you need a custom quantity or have questions, use the enquiry form on this page.**
+
+PLEASE NOTE: 250 is our minimum order for this bespoke product. 
