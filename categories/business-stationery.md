@@ -1,6 +1,6 @@
 ---
 title: Business Stationery
-featured: false
+featured: true
 header_text: Business Stationery
 subtitle: Professional stationery for your business
 meta_title: Business Stationery | C-Results
