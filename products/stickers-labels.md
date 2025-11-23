@@ -12,13 +12,11 @@ features:
   - Weatherproof options
   - Short and long runs available
   - Price matching available
-gallery:
-  - /images/price-list.jpg
 header_text: Stickers & Labels
 meta_description: Custom sticker and label printing for products, promotions,
   and branding. All shapes, sizes, and materials available.
 meta_title: Stickers & Labels | C-Results
-thumbnail: /images/products.jpg
+thumbnail: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (24).png
 ---
 I can print labels for products, stickers for promotions, or anything sticky with your logo on it, from tiny price labels to massive window stickers. No job is too big or too small.
 
