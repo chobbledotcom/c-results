@@ -1,6 +1,5 @@
 ---
 title: Stickers & Labels
-header_image: /images/products.jpg
 categories:
   - categories/print-services.md
   - categories/business-stationery.md
@@ -19,6 +18,7 @@ header_text: Stickers & Labels
 meta_description: Custom sticker and label printing for products, promotions,
   and branding. All shapes, sizes, and materials available.
 meta_title: Stickers & Labels | C-Results
+thumbnail: /images/products.jpg
 ---
 I can print labels for products, stickers for promotions, or anything sticky with your logo on it, from tiny price labels to massive window stickers. No job is too big or too small.
 
