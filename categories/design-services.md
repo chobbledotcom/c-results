@@ -1,7 +1,6 @@
 ---
 title: Design Services
 featured: true
-header_image: /images/business-building.jpg
 header_text: Creative Design Solutions
 subtitle: Where creative ideas evolve into design and meet quality print
 meta_title: Design Services | C-Results
