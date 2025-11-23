@@ -18,17 +18,17 @@ gallery:
   - /images/577714659_1408419497386965_4612199018395453191_n.jpg
   - /images/573294226_1717247242302067_8052494303018605645_n.jpg
 ---
-I print custom car air fresheners from our Thornbury base that work as brilliant marketing tools. Your customers will see your logo every day. 
+We print custom car air fresheners from our Thornbury base that work as brilliant marketing tools. Your customers will see your logo every day. 
 
-These are high quality air fresheners (not flimsy ones), printed with your logo on both sides. I can add QR codes that link straight to your website - customers just point their phone and they're looking at your services.
+These are high quality air fresheners (not flimsy ones), printed with your logo on both sides. We can add QR codes that link straight to your website - customers just point their phone and they're looking at your services.
 
 ### Popular with..
 
-I've done thousands for car valeters, taxi firms, and MOT centres. One garage in Bristol ordered 1,000 and said they got more bookings in a month than their Yellow Pages ad ever brought in. At these prices, they're cheaper than [business cards](/products/business-cards) but hang around a lot longer.
+We've done thousands for car valeters, taxi firms, driving instructors and MOT centres. One garage in Bristol ordered 1,000 and said they got more bookings in a month than their Yellow Pages ad ever brought in. At these prices, they're cheaper than [business cards](/products/business-cards) but hang around a lot longer.
 
 ### Why they work
 
-Unlike [flyers](/products/flyers-leaflets) that get binned, these stick around for months. Every time someone gets in their car - there's your brand. Every passenger sees it too. And when they need your service, you're literally right in front of them.
+Unlike [flyers](/products/flyers-leaflets) These stick around for months. Every time someone gets in their car - there's your brand. Every passenger sees it too. And when they need your service, you're literally right in front of them.
 
 Design is included in the price. I'll sort the whole thing - design, print, and delivery straight to you. If you're already spending on marketing, add these to your mix. They're brilliant for including with invoices or handing out at events.
 
