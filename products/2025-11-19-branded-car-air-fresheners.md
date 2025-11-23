@@ -17,6 +17,12 @@ gallery:
   - /images/468054925_10235382356404067_6245659742960940949_n.jpg
   - /images/577714659_1408419497386965_4612199018395453191_n.jpg
   - /images/573294226_1717247242302067_8052494303018605645_n.jpg
+header_text: Create personalised custom air fresheners for your business, car,
+  events or promotions. Choose your shape, scent and design to make your brand
+  unforgettable.
+meta_description: Design your own custom air fresheners with unique scents and
+  shapes. Perfect for cars, businesses, events and promotions. Fast UK delivery.
+meta_title: Custom Air Fresheners | Personalised Car & Business Scents
 ---
 We print custom car air fresheners from our Thornbury base that work as brilliant marketing tools. Your customers will see your logo every day. 
 
