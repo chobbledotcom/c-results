@@ -1,12 +1,12 @@
 ---
 title: Signage & Display
 featured: false
-header_image: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (14).png
 header_text: Signage & Display Solutions
 subtitle: Eye-catching signs and banners for your business
 meta_title: Signage & Display | C-Results
 meta_description: Magnetic signs, banners, and display solutions to promote your
   business effectively.
+thumbnail: /images/posters.png
 ---
 Your van's basically a mobile billboard, so make the most of it. I create magnetic signs that turn any vehicle into mobile advertising. We've done them for plumbers, electricians, dog trainers - anyone who needs to be noticed when they pull up to a job.
 
