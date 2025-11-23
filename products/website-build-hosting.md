@@ -1,6 +1,5 @@
 ---
 title: Website Build, Host & SEO
-header_image: /images/business-building.jpg
 categories:
   - categories/digital-marketing.md
 price: Contact for quote
@@ -18,6 +17,7 @@ features:
   - Content management system
 gallery:
   - /images/business-building.jpg
+thumbnail: /images/web-development.jpg
 ---
 I'm working with [Stefan from Chobble.com](https://chobble.com) to create and populate websites for businesses of all sizes. They're based on the "Chobble Template" - which is the same template that this site is built on!
 
