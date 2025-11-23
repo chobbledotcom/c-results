@@ -18,7 +18,7 @@ meta_description: Professional logo design, graphic design, and brand
   copywriting services. Build your business brand with creative design
   solutions.
 meta_title: Logo & Brand Design | C-Results
-thumbnail: /images/customised-items.jpg
+thumbnail: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (20).png
 ---
 Before you order [business cards](/products/business-cards), [flyers](/products/flyers-leaflets), or anything else, you need a professional logo. A real logo you can use everywhere from a tiny social media icon to the side of a van.
 
