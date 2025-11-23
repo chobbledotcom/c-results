@@ -1,12 +1,12 @@
 ---
 title: Distribution & Advertising
 featured: true
-header_image: /images/price-list.jpg
 header_text: Distribution & Advertising
 subtitle: Reach local customers through targeted distribution
 meta_title: Distribution & Advertising | C-Results
 meta_description: Local advertising and distribution services including
   Thornbury Connect magazine, reaching thousands of homes.
+thumbnail: /images/printing-services.jpg
 ---
 I publish Thornbury Connect magazine to help you reach thousands of local customers without the hassle. It goes through letterboxes across Thornbury and the surrounding areas.
 
