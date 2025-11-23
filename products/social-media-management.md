@@ -10,12 +10,11 @@ features:
   - Platform management
   - Strategic planning
   - Proven marketing strategy
-gallery:
-  - /images/services-overview.jpg
 header_text: Social Media Management
 meta_description: Professional social media management services. Grow your
   business with strategic content, engagement, and proven marketing strategies.
 meta_title: Social Media Management | C-Results
+thumbnail: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (23).png
 ---
 If you're fed up with social media but know you need to be on it, I'll sort it for you. I'll post regularly, respond to comments, grow your followers, and generally do all the stuff you haven't got time for.
 
