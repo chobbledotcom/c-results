@@ -32,7 +32,6 @@ meta_description: Professional business cards from £22 for 250 cards.
   Double-sided, includes professional design and delivery. Bespoke quality,
   cheaper than Vistaprint.
 meta_title: Business Cards | C-Results Print Services
-thumbnail: /images/customised-items.jpg
 ---
 Still the best way to share your details quickly from our base in Thornbury. I print high-quality business cards - with thick card and crisp printing.
 
