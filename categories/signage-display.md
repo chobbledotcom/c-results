@@ -1,6 +1,6 @@
 ---
 title: Signage & Display
-featured: false
+featured: true
 header_text: Signage & Display Solutions
 subtitle: Eye-catching signs and banners for your business
 meta_title: Signage & Display | C-Results
