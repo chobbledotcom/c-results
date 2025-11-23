@@ -1,6 +1,5 @@
 ---
 title: Logo & Brand Design
-header_image: /images/graphic-design.jpg
 categories:
   - categories/design-services.md
 price: Contact for quote
@@ -19,6 +18,7 @@ meta_description: Professional logo design, graphic design, and brand
   copywriting services. Build your business brand with creative design
   solutions.
 meta_title: Logo & Brand Design | C-Results
+thumbnail: /images/customised-items.jpg
 ---
 Before you order [business cards](/products/business-cards), [flyers](/products/flyers-leaflets), or anything else, you need a professional logo. A real logo you can use everywhere from a tiny social media icon to the side of a van.
 
