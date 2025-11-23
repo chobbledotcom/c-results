@@ -54,6 +54,7 @@ content:
     subfolders: false
     fields:
       - { name: title, type: string, label: Title }
+      - { name: thumbnail, type: image, label: Thumbnail }
       - { name: header_image, type: image, label: Header Image }
       - name: categories
         label: Categories
@@ -100,6 +101,7 @@ content:
     filename: "{primary}.md"
     fields:
       - { name: title, type: string, label: Title }
+      - { name: thumbnail, type: image, label: Thumbnail }
       - { name: body, label: Body, type: code, options: { language: markdown } }
       - { name: featured, label: Featured, type: boolean }
       - { name: header_image, type: image, label: Header Image }
