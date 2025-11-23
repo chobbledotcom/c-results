@@ -14,12 +14,12 @@ features:
   - Price matching available
 gallery:
   - /images/price-list.jpg
+  - /images/Untitled (1600 x 1200 px) (1600 x 800 px) (14).png
 header_text: Banners & Posters
 meta_description: Professional banner and poster printing for events,
   promotions, and business advertising. All sizes available with fast
   turnaround.
 meta_title: Banners & Posters | C-Results
-thumbnail: /images/printing-services.jpg
 ---
 ## Banners & posters
 
