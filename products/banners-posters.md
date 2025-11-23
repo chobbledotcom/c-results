@@ -19,6 +19,7 @@ meta_description: Professional banner and poster printing for events,
   promotions, and business advertising. All sizes available with fast
   turnaround.
 meta_title: Banners & Posters | C-Results
+thumbnail: /images/printing-services.jpg
 ---
 ## Banners & posters
 
