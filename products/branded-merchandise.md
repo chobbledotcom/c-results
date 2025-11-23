@@ -1,6 +1,5 @@
 ---
 title: Branded Merchandise
-header_image: /images/clothing-printing.jpg
 categories:
   - categories/print-services.md
   - categories/design-services.md
@@ -20,6 +19,7 @@ meta_description: Custom branded merchandise including clothing, promotional
   items, and marketing materials. Boost your brand awareness with quality
   merchandise.
 meta_title: Branded Merchandise | C-Results
+thumbnail: /images/clothing-printing.jpg
 ---
 I'll can print your logo on t-shirts, mugs, pens, or pretty much anything else you need. Whether you need workwear for your team or giveaways for a trade show, I've got suppliers for everything.
 
