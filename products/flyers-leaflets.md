@@ -35,6 +35,7 @@ meta_description: Professional flyer printing from 2,000 to 10,000 copies.
   Includes professional design, QR codes, and delivery. Trusted by scaffolding,
   roofing, and local businesses.
 meta_title: Flyers & Leaflets | C-Results Print Services
+thumbnail: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (17).png
 ---
 Flyers are still the workhorse of local marketing - cheap, effective, and they get results.
 
