@@ -25,7 +25,7 @@ header_text: A2 Magnetic Flash Deal Signs
 meta_description: A2 and A3 magnetic signs for vehicles and displays. Flash
   deals available - Buy 2 Get 2 Free or 8 for the price of 4!
 meta_title: Magnetic Signs | C-Results
-thumbnail: /images/posters.png
+thumbnail: /images/Untitled (1600 x 1200 px) (1600 x 800 px) (21).png
 ---
 If you want to advertise on your van but don't want permanent graphics, or it's a lease vehicle you can't modify, magnetic signs are the answer. You stick them on when you're working, and take them off when you're not.
 
