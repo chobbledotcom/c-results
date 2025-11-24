@@ -10,11 +10,12 @@ eleventyNavigation:
 layout: home.html
 permalink: /
 ---
-## Print, design and marketing in Thornbury & Nationwide
+
+## Build Your Business With Us
 
 I'm Carl from Thornbury. Whether you need business cards, fliers, search engine advice, or even a totally new website, I can manage the project from start to finish. My prices beat Vistaprint, for bespoke design and great customer service.
 
-![Build your business with us](/images/business-building.jpg)
+![Build your business with us flier](/images/business-building.jpg)
 
 You don't have to be local to Thornbury to work with us. I deliver nationwide, and plenty of our clients are scattered across the UK.
 
