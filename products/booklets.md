@@ -12,6 +12,7 @@ features:
   - Delivery included
   - Price matching available
 gallery:
+  - /images/Untitled (1600 x 1200 px) (1600 x 800 px) (15).png
   - /images/services-overview.jpg
   - /images/price-list.jpg
 header_text: Professional Booklets

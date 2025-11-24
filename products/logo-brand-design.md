@@ -11,6 +11,7 @@ features:
   - Print-ready files
   - Multiple format delivery
 gallery:
+  - /images/Untitled (1600 x 1200 px) (1600 x 800 px) (20).png
   - /images/business-building.jpg
   - /images/services-overview.jpg
 header_text: Logo & Brand Design

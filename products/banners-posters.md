@@ -13,6 +13,7 @@ features:
   - Fast turnaround
   - Price matching available
 gallery:
+  - /images/posters.png
   - /images/price-list.jpg
   - /images/Untitled (1600 x 1200 px) (1600 x 800 px) (14).png
 header_text: Banners & Posters

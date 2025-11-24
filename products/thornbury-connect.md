@@ -42,6 +42,7 @@ features:
   - One-off payment - no contracts
   - Trusted network of reliable businesses
 gallery:
+  - /images/thornbury-connect.jpg
   - /images/price-list.jpg
   - /images/business-building.jpg
 header_text: Thornbury Connect
