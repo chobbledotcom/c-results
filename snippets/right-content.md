@@ -1,13 +1,14 @@
 ---
 name: Right column
 ---
+
 ![C-Results Logo](/assets/logo.png)
 
 ### Contact C-Results
 
 - **Phone:** [01454 837337](tel:01454837337)
 - **Mobile:** [07727349349](tel:07727349349)
-- **Contact us:** [click here](/contact/)
+- **[Click here to contact us](/contact/)**
 
 ---
 
