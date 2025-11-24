@@ -1,5 +1,6 @@
 ---
 title: Branded Car Air Fresheners
+price: From 36p each
 categories:
   - categories/print-services.md
 options:
