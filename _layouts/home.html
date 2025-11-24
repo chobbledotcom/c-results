@@ -5,6 +5,7 @@ layout: base
 {%- assign products = collections.products -%}
 {%- if homepage.show_products and products.size > 0 -%}
   <div id="homepage-products">
+    <h2>Our Product Range</h2>
     {%- include "products-list.html" -%}
   </div>
 {%- endif -%}
