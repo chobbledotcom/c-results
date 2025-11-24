@@ -26,6 +26,7 @@ features:
   - Cheaper than Vistaprint
   - Price matching available
 gallery:
+  - /images/Untitled (1600 x 1200 px) (1600 x 800 px) (18).png
   - /images/business-cards-promo.jpg
 header_text: Professional Business Cards
 meta_description: Professional business cards from £22 for 250 cards.

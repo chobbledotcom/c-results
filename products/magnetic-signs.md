@@ -20,6 +20,7 @@ features:
   - Flash deals available
   - Price matching available
 gallery:
+  - /images/Untitled (1600 x 1200 px) (1600 x 800 px) (21).png
   - /images/magnetic-signs-promo.jpg
 header_text: A2 Magnetic Flash Deal Signs
 meta_description: A2 and A3 magnetic signs for vehicles and displays. Flash

@@ -13,6 +13,7 @@ features:
   - Fast turnaround
   - Price matching available
 gallery:
+  - /images/clothing-printing.jpg
   - /images/services-overview.jpg
 header_text: Branded Merchandise
 meta_description: Custom branded merchandise including clothing, promotional

@@ -25,6 +25,7 @@ features:
   - Perfect bound or stapled options
   - Price matching available
 gallery:
+  - /images/Untitled (1600 x 1200 px) (1600 x 800 px) (16).png
   - /images/c02ebbeb-017c-448e-9a7d-c7a1bea8bef4.jpg
   - /images/f6f39178-937e-4843-a912-476abd7c56de.jpg
 header_text: Professional Brochures

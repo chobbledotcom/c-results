@@ -16,6 +16,7 @@ features:
   - Online booking integration
   - Content management system
 gallery:
+  - /images/web-development.jpg
   - /images/business-building.jpg
 thumbnail: /images/web-development.jpg
 ---
