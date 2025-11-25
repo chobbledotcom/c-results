@@ -5,6 +5,9 @@ categories:
   - categories/business-stationery.md
 price: From £44 for 250 cards
 options:
+  - name: 1 card (test)
+    max_quantity: 1
+    unit_price: 0.10
   - name: 250 cards
     max_quantity: 1
     unit_price: 44
