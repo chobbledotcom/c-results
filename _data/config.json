@@ -7,7 +7,7 @@
 	"enable_theme_switcher": false,
 	"paypal_email": "ckcastles@outlook.com",
 	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
-	"chobble_link": "https://chobble.com/examples/chobble-template/",
+	"chobble_link": "https://chobble.com/services/chobble-template/",
 	"stripe_publishable_key": null,
 	"products": {}
 }
