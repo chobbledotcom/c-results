@@ -2,27 +2,21 @@
 layout: base
 ---
 
-{%- assign products = collections.products -%} {%- if homepage.show_products and
-products.size > 0 -%}
+{%- assign products = collections.products -%}
+{%- if homepage.show_products and products.size > 0 -%}
 <div id="homepage-products">
   <h2>Our Product Range</h2>
-  {%- include "products-list.html" -%}
+  {%- include "items.html", items: products -%}
 </div>
-{%- endif -%} {{ content }} {%- assign menus = collections.menu | sort:
-'data.order' -%} {%- if homepage.show_menus and menus.size > 0 -%}
-<hr />
-{%- render_snippet "homepage-menus-header", "
-<h3>Our Menus</h3>
-" -%} {% include "menus-list.html" %} {%- endif -%} {%- if homepage.show_news
-and collections.news.size > 0 -%}
+{%- endif -%}
+
+{{ content }}
+
+{%- if homepage.show_news and collections.news.size > 0 -%}
 <hr />
 {%- render_snippet "homepage-news-header", "
 <h3>Latest Posts</h3>
-" -%} {% include "items.html", items: collections.news %} {%- endif -%} {%-
-comment -%} Check for recurring events {%- endcomment -%} {%- assign
-recurring_events = collections.events | where: "data.recurring_date" -%} {%- if
-homepage.show_recurring_events and recurring_events.size > 0 -%}
-<hr />
-{%- render_snippet "homepage-events-header", "
-<h3>Regular Events</h3>
-" -%} {% include "recurring-events-list.html" %} {%- endif -%}
+" -%}
+{% include "items.html", items: collections.news %}
+{%- endif -%}
+
