@@ -130,7 +130,7 @@ ul.items {
       width: 100%;
     }
     @media (min-width: 601px) {
-      width: max(15rem, calc((100% - 2rem) / 3));
+      width: max(15rem, calc((100% - 3rem) / 3));
     }
   }
   h3 {
