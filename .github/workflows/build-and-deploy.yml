@@ -41,8 +41,6 @@ jobs:
             --recursive \
             --verbose \
             --delete \
-            --exclude="package.json" \
-            --exclude="pnpm-lock.yaml" \
             --exclude=".git" \
             --exclude="*.md" \
             --exclude="images" \
@@ -56,6 +54,8 @@ jobs:
             --verbose \
             --exclude=".*" \
             --exclude="README.md" \
+            --exclude="package.json" \
+            --exclude="pnpm-lock.yaml" \
             source/ \
             combined/src/
 
