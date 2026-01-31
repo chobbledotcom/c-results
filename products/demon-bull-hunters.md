@@ -4,7 +4,7 @@ categories:
   - categories/games.md
 price: From £3.50
 options:
-  - name: Full Starter Pack (includes personalized cards)
+  - name: Full Starter Pack
     max_quantity: 10
     unit_price: 19.99
   - name: Entry Level Pack
