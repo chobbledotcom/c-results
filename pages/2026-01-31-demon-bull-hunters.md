@@ -6,6 +6,8 @@ meta_description: Demon Bull Hunters is a screen-free martial arts battle card
   game.
 meta_title: Demon Bull Hunters Battle Cards | Martial Arts Fitness Card Game for Kids
 header_image: /images/Untitled (1600 x 1200 px).jpg
+layout: categories.html
+permalink: /producs/
 ---
 🐂 Demon Bull Hunters – Battle Cards
 
