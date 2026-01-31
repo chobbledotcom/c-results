@@ -1,0 +1,45 @@
+{%- if config.cart_mode and cart_attributes -%}
+<noscript><p>JavaScript is required to add items to your cart and complete purchases.</p></noscript>
+{%- if has_single_cart_option -%}
+  {%- assign _po_whole = options.first.unit_price | floor -%}
+  {%- assign _po_frac = options.first.unit_price | minus: _po_whole | times: 100 | round -%}
+  {%- if _po_frac == 0 -%}
+    {%- assign _po_formatted = _po_whole -%}
+  {%- elsif _po_frac < 10 -%}
+    {%- capture _po_formatted %}{{ _po_whole }}.0{{ _po_frac }}{% endcapture -%}
+  {%- else -%}
+    {%- capture _po_formatted %}{{ _po_whole }}.{{ _po_frac }}{% endcapture -%}
+  {%- endif -%}
+  {%- if product_mode == "hire" -%}
+    {%- assign btn_text_with_price = "Add to Quote - from £" | append: _po_formatted -%}
+  {%- else -%}
+    {%- assign btn_text_with_price = "Add to Cart - £" | append: _po_formatted -%}
+  {%- endif -%}
+  {%- include "templates/add-to-cart-button.html",
+      cart_attributes: cart_attributes,
+      btn_text: btn_text_with_price,
+      show_quantity: show_cart_quantity_selector,
+      max_quantity: options.first.max_quantity -%}
+{%- else -%}
+<div>
+  <select class="product-options-select">
+    <option value="" disabled selected>Please select option</option>
+    {%- for option in options -%}
+    {%- assign _po_whole = option.unit_price | floor -%}
+    {%- assign _po_frac = option.unit_price | minus: _po_whole | times: 100 | round -%}
+    {%- if _po_frac == 0 -%}
+      {%- assign _po_formatted = _po_whole -%}
+    {%- elsif _po_frac < 10 -%}
+      {%- capture _po_formatted %}{{ _po_whole }}.0{{ _po_frac }}{% endcapture -%}
+    {%- else -%}
+      {%- capture _po_formatted %}{{ _po_whole }}.{{ _po_frac }}{% endcapture -%}
+    {%- endif -%}
+    <option value="{{ forloop.index0 }}">{{ option.name }} - £{{ _po_formatted }}</option>
+    {%- endfor -%}
+  </select>
+  <button class="add-to-cart product-option-button" data-item="{{ cart_attributes }}" disabled>
+    Add to Cart
+  </button>
+</div>
+{%- endif -%}
+{%- endif -%}
