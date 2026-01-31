@@ -2,7 +2,18 @@
 title: Demon Bull Hunters Battle Cards
 categories:
   - categories/games.md
-price: Contact for details
+price: From £3.50
+options:
+  - name: Full Starter Pack
+    max_quantity: 1
+    unit_price: 19.99
+    was_price: 35
+  - name: Entry Level Pack
+    max_quantity: 1
+    unit_price: 3.50
+  - name: White Belt Booster Pack
+    max_quantity: 1
+    unit_price: 3.50
 header_text: Demon Bull Hunters
 header_image: /images/demon-bull-hunters.jpg
 meta_description: Demon Bull Hunters is a screen-free martial arts battle card game
