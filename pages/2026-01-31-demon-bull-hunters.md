@@ -8,6 +8,9 @@ meta_title: Demon Bull Hunters Battle Cards | Martial Arts Fitness Card Game for
 header_image: /images/Untitled (1600 x 1200 px).jpg
 layout: categories.html
 permalink: /products/
+eleventyNavigation:
+  key: products
+  order: 1
 ---
 🐂 Demon Bull Hunters – Battle Cards
 
