@@ -4,21 +4,24 @@ categories:
   - categories/games.md
 price: From £3.50
 options:
-  - name: Full Starter Pack
-    max_quantity: 1
+  - name: Full Starter Pack (includes personalized cards)
+    max_quantity: 10
     unit_price: 19.99
-    was_price: 35
   - name: Entry Level Pack
-    max_quantity: 1
-    unit_price: 3.50
+    max_quantity: 10
+    unit_price: 3.5
   - name: White Belt Booster Pack
-    max_quantity: 1
-    unit_price: 3.50
+    max_quantity: 10
+    unit_price: 3.5
+  - name: Personalized Hunter Pack
+    max_quantity: 10
+    unit_price: 17
 header_text: Demon Bull Hunters
 header_image: /images/demon-bull-hunters.jpg
-meta_description: Demon Bull Hunters is a screen-free martial arts battle card game
-  where kids train, move and level up. Fitness challenges, real techniques, raids and
-  character progression — turning exercise into an exciting strategy game.
+meta_description: Demon Bull Hunters is a screen-free martial arts battle card
+  game where kids train, move and level up. Fitness challenges, real techniques,
+  raids and character progression — turning exercise into an exciting strategy
+  game.
 meta_title: Demon Bull Hunters Battle Cards | Martial Arts Fitness Card Game for Kids
 thumbnail: /images/demon-bull-hunters.jpg
 features:
