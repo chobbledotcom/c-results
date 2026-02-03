@@ -34,6 +34,7 @@ features:
 gallery:
   - /images/ChatGPT Image Feb 1, 2026, 03_02_03 PM.png
   - /images/ChatGPT Image Jan 31, 2026, 01_45_32 PM.png
+  - /images/Packs Covers.jpg
 ---
 ## Train. Battle. Level Up.
 
