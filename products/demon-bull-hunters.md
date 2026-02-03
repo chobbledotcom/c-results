@@ -32,9 +32,9 @@ features:
   - Raid bosses and event battles
   - Builds confidence and discipline
 gallery:
-  - /images/ChatGPT Image Feb 1, 2026, 03_02_03 PM.png
-  - /images/ChatGPT Image Jan 31, 2026, 01_45_32 PM.png
-  - /images/Packs Covers.jpg
+  - /images/demon-bull-hunters-battle-cards.png
+  - /images/demon-bull-hunters-character.png
+  - /images/demon-bull-hunters-packs.jpg
 ---
 ## Train. Battle. Level Up.
 
