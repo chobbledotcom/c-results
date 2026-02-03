@@ -31,6 +31,9 @@ features:
   - Belt-based progression system
   - Raid bosses and event battles
   - Builds confidence and discipline
+gallery:
+  - /images/ChatGPT Image Feb 1, 2026, 03_02_03 PM.png
+  - /images/ChatGPT Image Jan 31, 2026, 01_45_32 PM.png
 ---
 ## Train. Battle. Level Up.
 
