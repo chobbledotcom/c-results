@@ -9,7 +9,7 @@ options:
     unit_price: 19.99
   - name: Entry Level Pack
     max_quantity: 10
-    unit_price: 3.5
+    unit_price: 5
   - name: White Belt Booster Pack
     max_quantity: 10
     unit_price: 3.5
