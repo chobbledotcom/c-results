@@ -14,12 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           path: source
 
       - name: Checkout Chobble Template
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           repository: chobble-mirror/chobble-template
           ref: 96342bec5294899d866026fdbcbed3d43746dd2c
@@ -69,7 +69,7 @@ jobs:
             "combined/src/_data/config.json"
 
       - name: Upload combined directory
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: combined-files
           path: combined/
@@ -82,25 +82,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download combined directory
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: combined-files
           path: combined
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@b906affcce14559ad1aafd4ab0e942779e9f58b1 # v4
         with:
-          version: latest
+          version: 10.33.2
 
       - name: Setup Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6
         with:
-          node-version: latest
+          node-version: 25.9.0
           cache: "pnpm"
           cache-dependency-path: combined/pnpm-lock.yaml
 
       - name: Restore image cache
-        uses: actions/cache@v4
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           path: combined/.image-cache
           key: ${{ runner.os }}-images-${{ hashFiles('combined/src/images/**/*') }}
@@ -129,7 +129,7 @@ jobs:
           fi
 
       - name: Deploy to Bunny
-        uses: R-J-dev/bunny-deploy@v2.0.6
+        uses: R-J-dev/bunny-deploy@fdcb2be383b1e0c8711e6cd49ec8359ff64526dd # v2.0.6
         with:
           access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
           directory-to-upload: _site
