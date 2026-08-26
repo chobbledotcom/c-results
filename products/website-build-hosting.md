@@ -20,7 +20,7 @@ gallery:
   - /images/business-building.jpg
 thumbnail: /images/web-development.jpg
 ---
-I'm working with [Stefan from Chobble.com](https://chobble.com) to create and populate websites for businesses of all sizes. They're based on the "Chobble Template" - which is the same template that this site is built on!
+I'm working with [Stefan from Chobble.com](https://www.chobble.com) to create and populate websites for businesses of all sizes. They're based on the "Chobble Template" - which is the same template that this site is built on!
 
 It's a very flexible template with loads of tools for businesses built-in, like products, events, menus, reviews, team profiles, or news items. And every aspect of the site is tweakable and easily overridden - it's all open source - so the design can be customised however you see fit.
 
